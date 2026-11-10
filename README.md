@@ -198,7 +198,7 @@ Refer to the dashboard's **System Evaluation Metrics** section and the validatio
 ### Clone the repository
 
 ```powershell
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vasudhavemula22-beep/Customer_Segmentation_Recommendation_System.git
 ```
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
