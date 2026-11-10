@@ -1,0 +1,50 @@
+[
+  {
+    "issue_id": "ISS-2026-000001",
+    "scenario_number": 1,
+    "issue_type": "Conflicting Exclusive Segments",
+    "customer_id": "CUS-000021",
+    "affected_table": "segment_memberships",
+    "affected_pk": "MEM-SEG-2026-000005-CUS-000021-ANOMALY",
+    "expected_behavior": "Customer must belong to exactly one active exclusive segment.",
+    "actual_behavior": "Customer has 2 concurrent active memberships in mutually exclusive segments (Champions & At Risk).",
+    "severity": "CRITICAL",
+    "suggested_correction": "Expire redundant membership by setting is_active = 0 and populating valid_to."
+  },
+  {
+    "issue_id": "ISS-2026-000002",
+    "scenario_number": 2,
+    "issue_type": "Consent Violation",
+    "customer_id": "CUS-000022",
+    "affected_table": "action_outcomes",
+    "affected_pk": "OUT-2026-ANOMALY-CONSENT",
+    "expected_behavior": "Promotional communication must be Suppressed if customer has Opted Out.",
+    "actual_behavior": "Marketing email action was executed ('Sent') to a customer with active Opted Out consent.",
+    "severity": "CRITICAL",
+    "suggested_correction": "Revoke execution, update status to 'Suppressed', and add consent withdrawal suppress note."
+  },
+  {
+    "issue_id": "ISS-2026-000003",
+    "scenario_number": 3,
+    "issue_type": "Incorrect Return Calculation",
+    "customer_id": "CUS-000023",
+    "affected_table": "orders",
+    "affected_pk": "ORD-2026-ANOMALY-RET",
+    "expected_behavior": "Order net_amount must equal total_amount minus return_amount ($162.00 - $89.99 = $72.01).",
+    "actual_behavior": "Order net_amount remains $162.00; return refund of $89.99 was not subtracted.",
+    "severity": "HIGH",
+    "suggested_correction": "Recalculate orders.net_amount = total_amount - return_amount."
+  },
+  {
+    "issue_id": "ISS-2026-000004",
+    "scenario_number": 4,
+    "issue_type": "Wrong Action Attribution",
+    "customer_id": "CUS-000024",
+    "affected_table": "action_outcomes",
+    "affected_pk": "OUT-2026-ANOMALY-ATTR",
+    "expected_behavior": "Attributed conversion order must be placed after the action execution date.",
+    "actual_behavior": "Action executed on 2026-10-01 credited with order ORD-2026-ANOMALY-PRIOR placed on 2026-05-01.",
+    "severity": "HIGH",
+    "suggested_correction": "Clear attributed_order_id and set outcome_status to 'Pending' or 'Opened'."
+  }
+]

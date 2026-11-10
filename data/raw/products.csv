@@ -1,0 +1,501 @@
+product_id,product_name,category,base_price,cost,is_active,created_at
+PRD-000001,Noise-Cancelling Headphones,Electronics,147.18,63.78,1,2025-01-01 00:00:00
+PRD-000002,Wireless Mechanical Keyboard,Electronics,88.61,39.39,1,2025-01-01 00:00:00
+PRD-000003,Ultra-HD Webcam 4K,Electronics,136.63,59.45,1,2025-01-01 00:00:00
+PRD-000004,Bluetooth Smart Speaker,Electronics,52.3,21.97,1,2025-01-01 00:00:00
+PRD-000005,Multi-Port USB-C Hub,Electronics,36.63,13.09,1,2025-01-01 00:00:00
+PRD-000006,Gaming Optical Mouse,Electronics,66.5,26.6,1,2025-01-01 00:00:00
+PRD-000007,Fast Wireless Charger Pad,Electronics,28.61,10.3,1,2025-01-01 00:00:00
+PRD-000008,Portable Power Bank 20000mAh,Electronics,36.64,14.66,1,2025-01-01 00:00:00
+PRD-000009,Classic Cotton Crewneck T-Shirt,Apparel,22.96,7.03,1,2025-01-01 00:00:00
+PRD-000010,Slim-Fit Stretch Denim Jeans,Apparel,72.4,23.42,1,2025-01-01 00:00:00
+PRD-000011,Waterproof Windbreaker Jacket,Apparel,98.52,35.26,1,2025-01-01 00:00:00
+PRD-000012,Merino Wool Knit Sweater,Apparel,79.29,28.92,1,2025-01-01 00:00:00
+PRD-000013,Breathable Athletic Shorts,Apparel,36.21,11.31,1,2025-01-01 00:00:00
+PRD-000014,Everyday Casual Canvas Sneakers,Apparel,50.67,16.58,1,2025-01-01 00:00:00
+PRD-000015,Stainless Steel Chef Knife 8-inch,Home & Kitchen,47.15,15.72,1,2025-01-01 00:00:00
+PRD-000016,Pour-Over Glass Coffee Maker,Home & Kitchen,29.3,9.28,1,2025-01-01 00:00:00
+PRD-000017,Cast Iron Skillet Pre-Seasoned,Home & Kitchen,39.66,14.42,1,2025-01-01 00:00:00
+PRD-000018,Scented Aromatherapy Diffuser,Home & Kitchen,20.3,6.28,1,2025-01-01 00:00:00
+PRD-000019,Organic Bamboo Cutting Board Set,Home & Kitchen,26.66,7.95,1,2025-01-01 00:00:00
+PRD-000020,Silicone Cooking Utensil 10pc Set,Home & Kitchen,21.25,6.38,1,2025-01-01 00:00:00
+PRD-000021,Hydrating Hyaluronic Acid Serum,Beauty,27.16,5.74,1,2025-01-01 00:00:00
+PRD-000022,Gentle Foaming Daily Cleanser,Beauty,18.65,4.23,1,2025-01-01 00:00:00
+PRD-000023,Broad Spectrum SPF 50 Mineral Sunscreen,Beauty,20.32,4.62,1,2025-01-01 00:00:00
+PRD-000024,Nourishing Vitamin E Night Cream,Beauty,37.84,8.9,1,2025-01-01 00:00:00
+PRD-000025,Purifying Clay Face Mask,Beauty,15.67,3.43,1,2025-01-01 00:00:00
+PRD-000026,High-Density Anti-Tear Yoga Mat,Sports,25.89,8.32,1,2025-01-01 00:00:00
+PRD-000027,Adjustable Dumbbell Pair 25lb,Sports,120.58,55.27,1,2025-01-01 00:00:00
+PRD-000028,Insulated Stainless Water Bottle 32oz,Sports,26.3,7.37,1,2025-01-01 00:00:00
+PRD-000029,Elastic Resistance Bands 5-Pack,Sports,17.16,4.35,1,2025-01-01 00:00:00
+PRD-000030,Compact Foam Roller for Muscle Recovery,Sports,20.63,5.68,1,2025-01-01 00:00:00
+PRD-000031,Noise-Cancelling Headphones Model B,Electronics,152.52,66.1,1,2025-01-01 00:00:00
+PRD-000032,Wireless Mechanical Keyboard Model B,Electronics,83.22,36.99,1,2025-01-01 00:00:00
+PRD-000033,Ultra-HD Webcam 4K Model B,Electronics,122.13,53.14,1,2025-01-01 00:00:00
+PRD-000034,Bluetooth Smart Speaker Model B,Electronics,57.12,24.0,1,2025-01-01 00:00:00
+PRD-000035,Multi-Port USB-C Hub Model B,Electronics,33.58,12.0,1,2025-01-01 00:00:00
+PRD-000036,Gaming Optical Mouse Model B,Electronics,62.69,25.08,1,2025-01-01 00:00:00
+PRD-000037,Fast Wireless Charger Pad Model B,Electronics,28.66,10.32,1,2025-01-01 00:00:00
+PRD-000038,Portable Power Bank 20000mAh Model B,Electronics,45.38,18.16,1,2025-01-01 00:00:00
+PRD-000039,Classic Cotton Crewneck T-Shirt Model B,Apparel,26.09,7.99,1,2025-01-01 00:00:00
+PRD-000040,Slim-Fit Stretch Denim Jeans Model B,Apparel,76.85,24.86,1,2025-01-01 00:00:00
+PRD-000041,Waterproof Windbreaker Jacket Model B,Apparel,101.86,36.45,1,2025-01-01 00:00:00
+PRD-000042,Merino Wool Knit Sweater Model B,Apparel,96.34,35.14,1,2025-01-01 00:00:00
+PRD-000043,Breathable Athletic Shorts Model B,Apparel,32.58,10.18,1,2025-01-01 00:00:00
+PRD-000044,Everyday Casual Canvas Sneakers Model B,Apparel,54.92,17.97,1,2025-01-01 00:00:00
+PRD-000045,Stainless Steel Chef Knife 8-inch Model B,Home & Kitchen,46.98,15.66,1,2025-01-01 00:00:00
+PRD-000046,Pour-Over Glass Coffee Maker Model B,Home & Kitchen,29.45,9.33,1,2025-01-01 00:00:00
+PRD-000047,Cast Iron Skillet Pre-Seasoned Model B,Home & Kitchen,37.35,13.58,1,2025-01-01 00:00:00
+PRD-000048,Scented Aromatherapy Diffuser Model B,Home & Kitchen,22.07,6.82,1,2025-01-01 00:00:00
+PRD-000049,Organic Bamboo Cutting Board Set Model B,Home & Kitchen,29.5,8.8,1,2025-01-01 00:00:00
+PRD-000050,Silicone Cooking Utensil 10pc Set Model B,Home & Kitchen,18.57,5.57,1,2025-01-01 00:00:00
+PRD-000051,Hydrating Hyaluronic Acid Serum Model B,Beauty,26.92,5.69,1,2025-01-01 00:00:00
+PRD-000052,Gentle Foaming Daily Cleanser Model B,Beauty,16.74,3.8,1,2025-01-01 00:00:00
+PRD-000053,Broad Spectrum SPF 50 Mineral Sunscreen Model B,Beauty,23.07,5.24,1,2025-01-01 00:00:00
+PRD-000054,Nourishing Vitamin E Night Cream Model B,Beauty,34.99,8.23,1,2025-01-01 00:00:00
+PRD-000055,Purifying Clay Face Mask Model B,Beauty,15.18,3.32,1,2025-01-01 00:00:00
+PRD-000056,High-Density Anti-Tear Yoga Mat Model B,Sports,27.25,8.76,1,2025-01-01 00:00:00
+PRD-000057,Adjustable Dumbbell Pair 25lb Model B,Sports,128.88,59.07,1,2025-01-01 00:00:00
+PRD-000058,Insulated Stainless Water Bottle 32oz Model B,Sports,24.32,6.81,1,2025-01-01 00:00:00
+PRD-000059,Elastic Resistance Bands 5-Pack Model B,Sports,16.49,4.18,1,2025-01-01 00:00:00
+PRD-000060,Compact Foam Roller for Muscle Recovery Model C,Sports,22.21,6.11,1,2025-01-01 00:00:00
+PRD-000061,Noise-Cancelling Headphones Model C,Electronics,163.12,70.69,1,2025-01-01 00:00:00
+PRD-000062,Wireless Mechanical Keyboard Model C,Electronics,92.4,41.07,1,2025-01-01 00:00:00
+PRD-000063,Ultra-HD Webcam 4K Model C,Electronics,110.87,48.24,1,2025-01-01 00:00:00
+PRD-000064,Bluetooth Smart Speaker Model C,Electronics,55.23,23.2,1,2025-01-01 00:00:00
+PRD-000065,Multi-Port USB-C Hub Model C,Electronics,36.14,12.91,1,2025-01-01 00:00:00
+PRD-000066,Gaming Optical Mouse Model C,Electronics,60.42,24.17,1,2025-01-01 00:00:00
+PRD-000067,Fast Wireless Charger Pad Model C,Electronics,23.58,8.49,1,2025-01-01 00:00:00
+PRD-000068,Portable Power Bank 20000mAh Model C,Electronics,43.96,17.59,1,2025-01-01 00:00:00
+PRD-000069,Classic Cotton Crewneck T-Shirt Model C,Apparel,23.18,7.1,1,2025-01-01 00:00:00
+PRD-000070,Slim-Fit Stretch Denim Jeans Model C,Apparel,64.19,20.77,1,2025-01-01 00:00:00
+PRD-000071,Waterproof Windbreaker Jacket Model C,Apparel,98.58,35.28,1,2025-01-01 00:00:00
+PRD-000072,Merino Wool Knit Sweater Model C,Apparel,95.29,34.75,1,2025-01-01 00:00:00
+PRD-000073,Breathable Athletic Shorts Model C,Apparel,36.15,11.3,1,2025-01-01 00:00:00
+PRD-000074,Everyday Casual Canvas Sneakers Model C,Apparel,58.89,19.27,1,2025-01-01 00:00:00
+PRD-000075,Stainless Steel Chef Knife 8-inch Model C,Home & Kitchen,50.64,16.88,1,2025-01-01 00:00:00
+PRD-000076,Pour-Over Glass Coffee Maker Model C,Home & Kitchen,27.18,8.61,1,2025-01-01 00:00:00
+PRD-000077,Cast Iron Skillet Pre-Seasoned Model C,Home & Kitchen,36.63,13.32,1,2025-01-01 00:00:00
+PRD-000078,Scented Aromatherapy Diffuser Model C,Home & Kitchen,21.95,6.79,1,2025-01-01 00:00:00
+PRD-000079,Organic Bamboo Cutting Board Set Model C,Home & Kitchen,30.47,9.09,1,2025-01-01 00:00:00
+PRD-000080,Silicone Cooking Utensil 10pc Set Model C,Home & Kitchen,19.1,5.73,1,2025-01-01 00:00:00
+PRD-000081,Hydrating Hyaluronic Acid Serum Model C,Beauty,24.3,5.14,1,2025-01-01 00:00:00
+PRD-000082,Gentle Foaming Daily Cleanser Model C,Beauty,20.04,4.55,1,2025-01-01 00:00:00
+PRD-000083,Broad Spectrum SPF 50 Mineral Sunscreen Model C,Beauty,21.6,4.91,1,2025-01-01 00:00:00
+PRD-000084,Nourishing Vitamin E Night Cream Model C,Beauty,30.75,7.23,1,2025-01-01 00:00:00
+PRD-000085,Purifying Clay Face Mask Model C,Beauty,16.42,3.59,1,2025-01-01 00:00:00
+PRD-000086,High-Density Anti-Tear Yoga Mat Model C,Sports,30.66,9.86,1,2025-01-01 00:00:00
+PRD-000087,Adjustable Dumbbell Pair 25lb Model C,Sports,132.07,60.53,1,2025-01-01 00:00:00
+PRD-000088,Insulated Stainless Water Bottle 32oz Model C,Sports,26.6,7.45,1,2025-01-01 00:00:00
+PRD-000089,Elastic Resistance Bands 5-Pack Model C,Sports,14.07,3.57,1,2025-01-01 00:00:00
+PRD-000090,Compact Foam Roller for Muscle Recovery Model D,Sports,18.55,5.11,1,2025-01-01 00:00:00
+PRD-000091,Noise-Cancelling Headphones Model D,Electronics,164.72,71.38,1,2025-01-01 00:00:00
+PRD-000092,Wireless Mechanical Keyboard Model D,Electronics,91.12,40.5,1,2025-01-01 00:00:00
+PRD-000093,Ultra-HD Webcam 4K Model D,Electronics,132.14,57.5,1,2025-01-01 00:00:00
+PRD-000094,Bluetooth Smart Speaker Model D,Electronics,49.92,20.97,1,2025-01-01 00:00:00
+PRD-000095,Multi-Port USB-C Hub Model D,Electronics,36.53,13.05,1,2025-01-01 00:00:00
+PRD-000096,Gaming Optical Mouse Model D,Electronics,58.91,23.57,1,2025-01-01 00:00:00
+PRD-000097,Fast Wireless Charger Pad Model D,Electronics,22.85,8.23,1,2025-01-01 00:00:00
+PRD-000098,Portable Power Bank 20000mAh Model D,Electronics,37.33,14.94,1,2025-01-01 00:00:00
+PRD-000099,Classic Cotton Crewneck T-Shirt Model D,Apparel,25.12,7.69,1,2025-01-01 00:00:00
+PRD-000100,Slim-Fit Stretch Denim Jeans Model D,Apparel,74.06,23.96,1,2025-01-01 00:00:00
+PRD-000101,Waterproof Windbreaker Jacket Model D,Apparel,105.45,37.74,1,2025-01-01 00:00:00
+PRD-000102,Merino Wool Knit Sweater Model D,Apparel,93.42,34.07,1,2025-01-01 00:00:00
+PRD-000103,Breathable Athletic Shorts Model D,Apparel,34.29,10.71,1,2025-01-01 00:00:00
+PRD-000104,Everyday Casual Canvas Sneakers Model D,Apparel,51.24,16.77,1,2025-01-01 00:00:00
+PRD-000105,Stainless Steel Chef Knife 8-inch Model D,Home & Kitchen,51.07,17.02,1,2025-01-01 00:00:00
+PRD-000106,Pour-Over Glass Coffee Maker Model D,Home & Kitchen,30.77,9.75,1,2025-01-01 00:00:00
+PRD-000107,Cast Iron Skillet Pre-Seasoned Model D,Home & Kitchen,37.16,13.51,1,2025-01-01 00:00:00
+PRD-000108,Scented Aromatherapy Diffuser Model D,Home & Kitchen,22.23,6.87,1,2025-01-01 00:00:00
+PRD-000109,Organic Bamboo Cutting Board Set Model D,Home & Kitchen,25.93,7.73,1,2025-01-01 00:00:00
+PRD-000110,Silicone Cooking Utensil 10pc Set Model D,Home & Kitchen,20.64,6.19,1,2025-01-01 00:00:00
+PRD-000111,Hydrating Hyaluronic Acid Serum Model D,Beauty,29.42,6.22,1,2025-01-01 00:00:00
+PRD-000112,Gentle Foaming Daily Cleanser Model D,Beauty,17.04,3.87,1,2025-01-01 00:00:00
+PRD-000113,Broad Spectrum SPF 50 Mineral Sunscreen Model D,Beauty,23.36,5.31,1,2025-01-01 00:00:00
+PRD-000114,Nourishing Vitamin E Night Cream Model D,Beauty,33.3,7.84,1,2025-01-01 00:00:00
+PRD-000115,Purifying Clay Face Mask Model D,Beauty,16.18,3.54,1,2025-01-01 00:00:00
+PRD-000116,High-Density Anti-Tear Yoga Mat Model D,Sports,26.77,8.61,1,2025-01-01 00:00:00
+PRD-000117,Adjustable Dumbbell Pair 25lb Model D,Sports,121.17,55.54,1,2025-01-01 00:00:00
+PRD-000118,Insulated Stainless Water Bottle 32oz Model D,Sports,27.94,7.83,1,2025-01-01 00:00:00
+PRD-000119,Elastic Resistance Bands 5-Pack Model D,Sports,14.43,3.66,1,2025-01-01 00:00:00
+PRD-000120,Compact Foam Roller for Muscle Recovery Model E,Sports,19.0,5.23,1,2025-01-01 00:00:00
+PRD-000121,Noise-Cancelling Headphones Model E,Electronics,144.75,62.73,1,2025-01-01 00:00:00
+PRD-000122,Wireless Mechanical Keyboard Model E,Electronics,87.35,38.83,1,2025-01-01 00:00:00
+PRD-000123,Ultra-HD Webcam 4K Model E,Electronics,108.74,47.32,1,2025-01-01 00:00:00
+PRD-000124,Bluetooth Smart Speaker Model E,Electronics,47.1,19.79,1,2025-01-01 00:00:00
+PRD-000125,Multi-Port USB-C Hub Model E,Electronics,34.68,12.39,1,2025-01-01 00:00:00
+PRD-000126,Gaming Optical Mouse Model E,Electronics,61.6,24.64,1,2025-01-01 00:00:00
+PRD-000127,Fast Wireless Charger Pad Model E,Electronics,24.71,8.89,1,2025-01-01 00:00:00
+PRD-000128,Portable Power Bank 20000mAh Model E,Electronics,45.93,18.38,1,2025-01-01 00:00:00
+PRD-000129,Classic Cotton Crewneck T-Shirt Model E,Apparel,23.94,7.33,1,2025-01-01 00:00:00
+PRD-000130,Slim-Fit Stretch Denim Jeans Model E,Apparel,67.41,21.81,1,2025-01-01 00:00:00
+PRD-000131,Waterproof Windbreaker Jacket Model E,Apparel,92.23,33.01,1,2025-01-01 00:00:00
+PRD-000132,Merino Wool Knit Sweater Model E,Apparel,81.48,29.72,1,2025-01-01 00:00:00
+PRD-000133,Breathable Athletic Shorts Model E,Apparel,31.92,9.98,1,2025-01-01 00:00:00
+PRD-000134,Everyday Casual Canvas Sneakers Model E,Apparel,61.38,20.09,1,2025-01-01 00:00:00
+PRD-000135,Stainless Steel Chef Knife 8-inch Model E,Home & Kitchen,46.82,15.61,1,2025-01-01 00:00:00
+PRD-000136,Pour-Over Glass Coffee Maker Model E,Home & Kitchen,27.17,8.61,1,2025-01-01 00:00:00
+PRD-000137,Cast Iron Skillet Pre-Seasoned Model E,Home & Kitchen,36.77,13.37,1,2025-01-01 00:00:00
+PRD-000138,Scented Aromatherapy Diffuser Model E,Home & Kitchen,22.52,6.96,1,2025-01-01 00:00:00
+PRD-000139,Organic Bamboo Cutting Board Set Model E,Home & Kitchen,31.47,9.38,1,2025-01-01 00:00:00
+PRD-000140,Silicone Cooking Utensil 10pc Set Model E,Home & Kitchen,20.91,6.28,1,2025-01-01 00:00:00
+PRD-000141,Hydrating Hyaluronic Acid Serum Model E,Beauty,29.33,6.21,1,2025-01-01 00:00:00
+PRD-000142,Gentle Foaming Daily Cleanser Model E,Beauty,19.61,4.45,1,2025-01-01 00:00:00
+PRD-000143,Broad Spectrum SPF 50 Mineral Sunscreen Model E,Beauty,24.76,5.63,1,2025-01-01 00:00:00
+PRD-000144,Nourishing Vitamin E Night Cream Model E,Beauty,36.13,8.5,1,2025-01-01 00:00:00
+PRD-000145,Purifying Clay Face Mask Model E,Beauty,17.73,3.88,1,2025-01-01 00:00:00
+PRD-000146,High-Density Anti-Tear Yoga Mat Model E,Sports,26.87,8.64,1,2025-01-01 00:00:00
+PRD-000147,Adjustable Dumbbell Pair 25lb Model E,Sports,111.02,50.88,1,2025-01-01 00:00:00
+PRD-000148,Insulated Stainless Water Bottle 32oz Model E,Sports,28.05,7.86,1,2025-01-01 00:00:00
+PRD-000149,Elastic Resistance Bands 5-Pack Model E,Sports,15.67,3.97,1,2025-01-01 00:00:00
+PRD-000150,Compact Foam Roller for Muscle Recovery Model F,Sports,22.28,6.13,1,2025-01-01 00:00:00
+PRD-000151,Noise-Cancelling Headphones Model F,Electronics,142.92,61.94,1,2025-01-01 00:00:00
+PRD-000152,Wireless Mechanical Keyboard Model F,Electronics,89.67,39.86,1,2025-01-01 00:00:00
+PRD-000153,Ultra-HD Webcam 4K Model F,Electronics,112.79,49.08,1,2025-01-01 00:00:00
+PRD-000154,Bluetooth Smart Speaker Model F,Electronics,48.7,20.46,1,2025-01-01 00:00:00
+PRD-000155,Multi-Port USB-C Hub Model F,Electronics,32.8,11.72,1,2025-01-01 00:00:00
+PRD-000156,Gaming Optical Mouse Model F,Electronics,60.19,24.08,1,2025-01-01 00:00:00
+PRD-000157,Fast Wireless Charger Pad Model F,Electronics,27.09,9.75,1,2025-01-01 00:00:00
+PRD-000158,Portable Power Bank 20000mAh Model F,Electronics,40.97,16.39,1,2025-01-01 00:00:00
+PRD-000159,Classic Cotton Crewneck T-Shirt Model F,Apparel,25.57,7.83,1,2025-01-01 00:00:00
+PRD-000160,Slim-Fit Stretch Denim Jeans Model F,Apparel,67.05,21.69,1,2025-01-01 00:00:00
+PRD-000161,Waterproof Windbreaker Jacket Model F,Apparel,105.51,37.76,1,2025-01-01 00:00:00
+PRD-000162,Merino Wool Knit Sweater Model F,Apparel,80.91,29.51,1,2025-01-01 00:00:00
+PRD-000163,Breathable Athletic Shorts Model F,Apparel,29.23,9.13,1,2025-01-01 00:00:00
+PRD-000164,Everyday Casual Canvas Sneakers Model F,Apparel,59.8,19.57,1,2025-01-01 00:00:00
+PRD-000165,Stainless Steel Chef Knife 8-inch Model F,Home & Kitchen,42.73,14.24,1,2025-01-01 00:00:00
+PRD-000166,Pour-Over Glass Coffee Maker Model F,Home & Kitchen,34.18,10.83,1,2025-01-01 00:00:00
+PRD-000167,Cast Iron Skillet Pre-Seasoned Model F,Home & Kitchen,37.09,13.49,1,2025-01-01 00:00:00
+PRD-000168,Scented Aromatherapy Diffuser Model F,Home & Kitchen,20.9,6.46,1,2025-01-01 00:00:00
+PRD-000169,Organic Bamboo Cutting Board Set Model F,Home & Kitchen,29.02,8.65,1,2025-01-01 00:00:00
+PRD-000170,Silicone Cooking Utensil 10pc Set Model F,Home & Kitchen,18.37,5.51,1,2025-01-01 00:00:00
+PRD-000171,Hydrating Hyaluronic Acid Serum Model F,Beauty,25.85,5.47,1,2025-01-01 00:00:00
+PRD-000172,Gentle Foaming Daily Cleanser Model F,Beauty,18.25,4.14,1,2025-01-01 00:00:00
+PRD-000173,Broad Spectrum SPF 50 Mineral Sunscreen Model F,Beauty,22.06,5.01,1,2025-01-01 00:00:00
+PRD-000174,Nourishing Vitamin E Night Cream Model F,Beauty,38.95,9.16,1,2025-01-01 00:00:00
+PRD-000175,Purifying Clay Face Mask Model F,Beauty,17.33,3.79,1,2025-01-01 00:00:00
+PRD-000176,High-Density Anti-Tear Yoga Mat Model F,Sports,27.1,8.71,1,2025-01-01 00:00:00
+PRD-000177,Adjustable Dumbbell Pair 25lb Model F,Sports,118.01,54.09,1,2025-01-01 00:00:00
+PRD-000178,Insulated Stainless Water Bottle 32oz Model F,Sports,27.64,7.74,1,2025-01-01 00:00:00
+PRD-000179,Elastic Resistance Bands 5-Pack Model F,Sports,14.11,3.58,1,2025-01-01 00:00:00
+PRD-000180,Compact Foam Roller for Muscle Recovery Model G,Sports,21.07,5.8,1,2025-01-01 00:00:00
+PRD-000181,Noise-Cancelling Headphones Model G,Electronics,143.14,62.03,1,2025-01-01 00:00:00
+PRD-000182,Wireless Mechanical Keyboard Model G,Electronics,89.2,39.65,1,2025-01-01 00:00:00
+PRD-000183,Ultra-HD Webcam 4K Model G,Electronics,114.46,49.81,1,2025-01-01 00:00:00
+PRD-000184,Bluetooth Smart Speaker Model G,Electronics,45.82,19.25,1,2025-01-01 00:00:00
+PRD-000185,Multi-Port USB-C Hub Model G,Electronics,33.65,12.02,1,2025-01-01 00:00:00
+PRD-000186,Gaming Optical Mouse Model G,Electronics,59.38,23.75,1,2025-01-01 00:00:00
+PRD-000187,Fast Wireless Charger Pad Model G,Electronics,27.7,9.97,1,2025-01-01 00:00:00
+PRD-000188,Portable Power Bank 20000mAh Model G,Electronics,44.24,17.7,1,2025-01-01 00:00:00
+PRD-000189,Classic Cotton Crewneck T-Shirt Model G,Apparel,26.74,8.19,1,2025-01-01 00:00:00
+PRD-000190,Slim-Fit Stretch Denim Jeans Model G,Apparel,68.06,22.02,1,2025-01-01 00:00:00
+PRD-000191,Waterproof Windbreaker Jacket Model G,Apparel,108.67,38.89,1,2025-01-01 00:00:00
+PRD-000192,Merino Wool Knit Sweater Model G,Apparel,91.87,33.51,1,2025-01-01 00:00:00
+PRD-000193,Breathable Athletic Shorts Model G,Apparel,31.43,9.82,1,2025-01-01 00:00:00
+PRD-000194,Everyday Casual Canvas Sneakers Model G,Apparel,56.56,18.51,1,2025-01-01 00:00:00
+PRD-000195,Stainless Steel Chef Knife 8-inch Model G,Home & Kitchen,48.18,16.06,1,2025-01-01 00:00:00
+PRD-000196,Pour-Over Glass Coffee Maker Model G,Home & Kitchen,28.99,9.18,1,2025-01-01 00:00:00
+PRD-000197,Cast Iron Skillet Pre-Seasoned Model G,Home & Kitchen,38.96,14.17,1,2025-01-01 00:00:00
+PRD-000198,Scented Aromatherapy Diffuser Model G,Home & Kitchen,22.76,7.04,1,2025-01-01 00:00:00
+PRD-000199,Organic Bamboo Cutting Board Set Model G,Home & Kitchen,27.77,8.28,1,2025-01-01 00:00:00
+PRD-000200,Silicone Cooking Utensil 10pc Set Model G,Home & Kitchen,18.03,5.41,1,2025-01-01 00:00:00
+PRD-000201,Hydrating Hyaluronic Acid Serum Model G,Beauty,27.96,5.91,1,2025-01-01 00:00:00
+PRD-000202,Gentle Foaming Daily Cleanser Model G,Beauty,17.81,4.04,1,2025-01-01 00:00:00
+PRD-000203,Broad Spectrum SPF 50 Mineral Sunscreen Model G,Beauty,22.4,5.09,1,2025-01-01 00:00:00
+PRD-000204,Nourishing Vitamin E Night Cream Model G,Beauty,32.68,7.69,1,2025-01-01 00:00:00
+PRD-000205,Purifying Clay Face Mask Model G,Beauty,17.88,3.91,1,2025-01-01 00:00:00
+PRD-000206,High-Density Anti-Tear Yoga Mat Model G,Sports,31.94,10.27,1,2025-01-01 00:00:00
+PRD-000207,Adjustable Dumbbell Pair 25lb Model G,Sports,114.79,52.61,1,2025-01-01 00:00:00
+PRD-000208,Insulated Stainless Water Bottle 32oz Model G,Sports,28.68,8.03,1,2025-01-01 00:00:00
+PRD-000209,Elastic Resistance Bands 5-Pack Model G,Sports,15.92,4.03,1,2025-01-01 00:00:00
+PRD-000210,Compact Foam Roller for Muscle Recovery Model H,Sports,22.72,6.25,1,2025-01-01 00:00:00
+PRD-000211,Noise-Cancelling Headphones Model H,Electronics,147.56,63.95,1,2025-01-01 00:00:00
+PRD-000212,Wireless Mechanical Keyboard Model H,Electronics,97.82,43.48,1,2025-01-01 00:00:00
+PRD-000213,Ultra-HD Webcam 4K Model H,Electronics,136.37,59.34,1,2025-01-01 00:00:00
+PRD-000214,Bluetooth Smart Speaker Model H,Electronics,54.41,22.86,1,2025-01-01 00:00:00
+PRD-000215,Multi-Port USB-C Hub Model H,Electronics,37.66,13.46,1,2025-01-01 00:00:00
+PRD-000216,Gaming Optical Mouse Model H,Electronics,67.91,27.17,1,2025-01-01 00:00:00
+PRD-000217,Fast Wireless Charger Pad Model H,Electronics,26.04,9.38,1,2025-01-01 00:00:00
+PRD-000218,Portable Power Bank 20000mAh Model H,Electronics,38.81,15.53,1,2025-01-01 00:00:00
+PRD-000219,Classic Cotton Crewneck T-Shirt Model H,Apparel,24.49,7.5,1,2025-01-01 00:00:00
+PRD-000220,Slim-Fit Stretch Denim Jeans Model H,Apparel,70.98,22.97,1,2025-01-01 00:00:00
+PRD-000221,Waterproof Windbreaker Jacket Model H,Apparel,96.48,34.53,1,2025-01-01 00:00:00
+PRD-000222,Merino Wool Knit Sweater Model H,Apparel,78.18,28.51,1,2025-01-01 00:00:00
+PRD-000223,Breathable Athletic Shorts Model H,Apparel,29.12,9.1,1,2025-01-01 00:00:00
+PRD-000224,Everyday Casual Canvas Sneakers Model H,Apparel,54.47,17.83,1,2025-01-01 00:00:00
+PRD-000225,Stainless Steel Chef Knife 8-inch Model H,Home & Kitchen,51.25,17.08,1,2025-01-01 00:00:00
+PRD-000226,Pour-Over Glass Coffee Maker Model H,Home & Kitchen,34.34,10.88,1,2025-01-01 00:00:00
+PRD-000227,Cast Iron Skillet Pre-Seasoned Model H,Home & Kitchen,39.51,14.37,1,2025-01-01 00:00:00
+PRD-000228,Scented Aromatherapy Diffuser Model H,Home & Kitchen,23.01,7.11,1,2025-01-01 00:00:00
+PRD-000229,Organic Bamboo Cutting Board Set Model H,Home & Kitchen,26.45,7.89,1,2025-01-01 00:00:00
+PRD-000230,Silicone Cooking Utensil 10pc Set Model H,Home & Kitchen,19.17,5.75,1,2025-01-01 00:00:00
+PRD-000231,Hydrating Hyaluronic Acid Serum Model H,Beauty,27.11,5.73,1,2025-01-01 00:00:00
+PRD-000232,Gentle Foaming Daily Cleanser Model H,Beauty,20.52,4.66,1,2025-01-01 00:00:00
+PRD-000233,Broad Spectrum SPF 50 Mineral Sunscreen Model H,Beauty,21.69,4.93,1,2025-01-01 00:00:00
+PRD-000234,Nourishing Vitamin E Night Cream Model H,Beauty,38.66,9.1,1,2025-01-01 00:00:00
+PRD-000235,Purifying Clay Face Mask Model H,Beauty,15.29,3.34,1,2025-01-01 00:00:00
+PRD-000236,High-Density Anti-Tear Yoga Mat Model H,Sports,30.33,9.75,1,2025-01-01 00:00:00
+PRD-000237,Adjustable Dumbbell Pair 25lb Model H,Sports,122.26,56.03,1,2025-01-01 00:00:00
+PRD-000238,Insulated Stainless Water Bottle 32oz Model H,Sports,23.19,6.5,1,2025-01-01 00:00:00
+PRD-000239,Elastic Resistance Bands 5-Pack Model H,Sports,14.48,3.67,1,2025-01-01 00:00:00
+PRD-000240,Compact Foam Roller for Muscle Recovery Model I,Sports,19.42,5.34,1,2025-01-01 00:00:00
+PRD-000241,Noise-Cancelling Headphones Model I,Electronics,167.64,72.65,1,2025-01-01 00:00:00
+PRD-000242,Wireless Mechanical Keyboard Model I,Electronics,102.13,45.4,1,2025-01-01 00:00:00
+PRD-000243,Ultra-HD Webcam 4K Model I,Electronics,122.64,53.37,1,2025-01-01 00:00:00
+PRD-000244,Bluetooth Smart Speaker Model I,Electronics,50.76,21.32,1,2025-01-01 00:00:00
+PRD-000245,Multi-Port USB-C Hub Model I,Electronics,38.27,13.67,1,2025-01-01 00:00:00
+PRD-000246,Gaming Optical Mouse Model I,Electronics,60.6,24.24,1,2025-01-01 00:00:00
+PRD-000247,Fast Wireless Charger Pad Model I,Electronics,28.42,10.23,1,2025-01-01 00:00:00
+PRD-000248,Portable Power Bank 20000mAh Model I,Electronics,45.9,18.36,1,2025-01-01 00:00:00
+PRD-000249,Classic Cotton Crewneck T-Shirt Model I,Apparel,26.26,8.04,1,2025-01-01 00:00:00
+PRD-000250,Slim-Fit Stretch Denim Jeans Model I,Apparel,62.66,20.27,1,2025-01-01 00:00:00
+PRD-000251,Waterproof Windbreaker Jacket Model I,Apparel,103.45,37.02,1,2025-01-01 00:00:00
+PRD-000252,Merino Wool Knit Sweater Model I,Apparel,94.17,34.35,1,2025-01-01 00:00:00
+PRD-000253,Breathable Athletic Shorts Model I,Apparel,36.49,11.4,1,2025-01-01 00:00:00
+PRD-000254,Everyday Casual Canvas Sneakers Model I,Apparel,60.36,19.75,1,2025-01-01 00:00:00
+PRD-000255,Stainless Steel Chef Knife 8-inch Model I,Home & Kitchen,43.82,14.61,1,2025-01-01 00:00:00
+PRD-000256,Pour-Over Glass Coffee Maker Model I,Home & Kitchen,28.56,9.05,1,2025-01-01 00:00:00
+PRD-000257,Cast Iron Skillet Pre-Seasoned Model I,Home & Kitchen,36.08,13.12,1,2025-01-01 00:00:00
+PRD-000258,Scented Aromatherapy Diffuser Model I,Home & Kitchen,23.73,7.34,1,2025-01-01 00:00:00
+PRD-000259,Organic Bamboo Cutting Board Set Model I,Home & Kitchen,29.3,8.74,1,2025-01-01 00:00:00
+PRD-000260,Silicone Cooking Utensil 10pc Set Model I,Home & Kitchen,21.98,6.6,1,2025-01-01 00:00:00
+PRD-000261,Hydrating Hyaluronic Acid Serum Model I,Beauty,29.88,6.32,1,2025-01-01 00:00:00
+PRD-000262,Gentle Foaming Daily Cleanser Model I,Beauty,17.52,3.98,1,2025-01-01 00:00:00
+PRD-000263,Broad Spectrum SPF 50 Mineral Sunscreen Model I,Beauty,24.3,5.52,1,2025-01-01 00:00:00
+PRD-000264,Nourishing Vitamin E Night Cream Model I,Beauty,37.2,8.75,1,2025-01-01 00:00:00
+PRD-000265,Purifying Clay Face Mask Model I,Beauty,15.31,3.35,1,2025-01-01 00:00:00
+PRD-000266,High-Density Anti-Tear Yoga Mat Model I,Sports,31.27,10.05,1,2025-01-01 00:00:00
+PRD-000267,Adjustable Dumbbell Pair 25lb Model I,Sports,123.73,56.71,1,2025-01-01 00:00:00
+PRD-000268,Insulated Stainless Water Bottle 32oz Model I,Sports,27.54,7.71,1,2025-01-01 00:00:00
+PRD-000269,Elastic Resistance Bands 5-Pack Model I,Sports,16.14,4.09,1,2025-01-01 00:00:00
+PRD-000270,Compact Foam Roller for Muscle Recovery Model J,Sports,22.15,6.09,1,2025-01-01 00:00:00
+PRD-000271,Noise-Cancelling Headphones Model J,Electronics,142.98,61.96,1,2025-01-01 00:00:00
+PRD-000272,Wireless Mechanical Keyboard Model J,Electronics,83.81,37.25,1,2025-01-01 00:00:00
+PRD-000273,Ultra-HD Webcam 4K Model J,Electronics,126.76,55.16,1,2025-01-01 00:00:00
+PRD-000274,Bluetooth Smart Speaker Model J,Electronics,51.63,21.69,1,2025-01-01 00:00:00
+PRD-000275,Multi-Port USB-C Hub Model J,Electronics,37.12,13.26,1,2025-01-01 00:00:00
+PRD-000276,Gaming Optical Mouse Model J,Electronics,61.46,24.59,1,2025-01-01 00:00:00
+PRD-000277,Fast Wireless Charger Pad Model J,Electronics,27.19,9.79,1,2025-01-01 00:00:00
+PRD-000278,Portable Power Bank 20000mAh Model J,Electronics,37.32,14.93,1,2025-01-01 00:00:00
+PRD-000279,Classic Cotton Crewneck T-Shirt Model J,Apparel,24.42,7.47,1,2025-01-01 00:00:00
+PRD-000280,Slim-Fit Stretch Denim Jeans Model J,Apparel,62.78,20.31,1,2025-01-01 00:00:00
+PRD-000281,Waterproof Windbreaker Jacket Model J,Apparel,93.08,33.31,1,2025-01-01 00:00:00
+PRD-000282,Merino Wool Knit Sweater Model J,Apparel,81.64,29.78,1,2025-01-01 00:00:00
+PRD-000283,Breathable Athletic Shorts Model J,Apparel,29.77,9.3,1,2025-01-01 00:00:00
+PRD-000284,Everyday Casual Canvas Sneakers Model J,Apparel,62.36,20.41,1,2025-01-01 00:00:00
+PRD-000285,Stainless Steel Chef Knife 8-inch Model J,Home & Kitchen,45.0,15.0,1,2025-01-01 00:00:00
+PRD-000286,Pour-Over Glass Coffee Maker Model J,Home & Kitchen,32.58,10.32,1,2025-01-01 00:00:00
+PRD-000287,Cast Iron Skillet Pre-Seasoned Model J,Home & Kitchen,35.48,12.9,1,2025-01-01 00:00:00
+PRD-000288,Scented Aromatherapy Diffuser Model J,Home & Kitchen,20.24,6.26,1,2025-01-01 00:00:00
+PRD-000289,Organic Bamboo Cutting Board Set Model J,Home & Kitchen,28.08,8.37,1,2025-01-01 00:00:00
+PRD-000290,Silicone Cooking Utensil 10pc Set Model J,Home & Kitchen,20.69,6.21,1,2025-01-01 00:00:00
+PRD-000291,Hydrating Hyaluronic Acid Serum Model J,Beauty,24.42,5.17,1,2025-01-01 00:00:00
+PRD-000292,Gentle Foaming Daily Cleanser Model J,Beauty,16.65,3.78,1,2025-01-01 00:00:00
+PRD-000293,Broad Spectrum SPF 50 Mineral Sunscreen Model J,Beauty,22.33,5.07,1,2025-01-01 00:00:00
+PRD-000294,Nourishing Vitamin E Night Cream Model J,Beauty,37.85,8.91,1,2025-01-01 00:00:00
+PRD-000295,Purifying Clay Face Mask Model J,Beauty,14.7,3.22,1,2025-01-01 00:00:00
+PRD-000296,High-Density Anti-Tear Yoga Mat Model J,Sports,29.51,9.49,1,2025-01-01 00:00:00
+PRD-000297,Adjustable Dumbbell Pair 25lb Model J,Sports,134.06,61.44,1,2025-01-01 00:00:00
+PRD-000298,Insulated Stainless Water Bottle 32oz Model J,Sports,26.17,7.33,1,2025-01-01 00:00:00
+PRD-000299,Elastic Resistance Bands 5-Pack Model J,Sports,15.11,3.83,1,2025-01-01 00:00:00
+PRD-000300,Compact Foam Roller for Muscle Recovery Model K,Sports,20.75,5.71,1,2025-01-01 00:00:00
+PRD-000301,Noise-Cancelling Headphones Model K,Electronics,171.74,74.43,1,2025-01-01 00:00:00
+PRD-000302,Wireless Mechanical Keyboard Model K,Electronics,98.0,43.56,1,2025-01-01 00:00:00
+PRD-000303,Ultra-HD Webcam 4K Model K,Electronics,112.08,48.77,1,2025-01-01 00:00:00
+PRD-000304,Bluetooth Smart Speaker Model K,Electronics,49.0,20.58,1,2025-01-01 00:00:00
+PRD-000305,Multi-Port USB-C Hub Model K,Electronics,36.16,12.92,1,2025-01-01 00:00:00
+PRD-000306,Gaming Optical Mouse Model K,Electronics,57.4,22.96,1,2025-01-01 00:00:00
+PRD-000307,Fast Wireless Charger Pad Model K,Electronics,27.76,9.99,1,2025-01-01 00:00:00
+PRD-000308,Portable Power Bank 20000mAh Model K,Electronics,43.77,17.51,1,2025-01-01 00:00:00
+PRD-000309,Classic Cotton Crewneck T-Shirt Model K,Apparel,26.27,8.04,1,2025-01-01 00:00:00
+PRD-000310,Slim-Fit Stretch Denim Jeans Model K,Apparel,68.7,22.23,1,2025-01-01 00:00:00
+PRD-000311,Waterproof Windbreaker Jacket Model K,Apparel,104.42,37.37,1,2025-01-01 00:00:00
+PRD-000312,Merino Wool Knit Sweater Model K,Apparel,76.85,28.03,1,2025-01-01 00:00:00
+PRD-000313,Breathable Athletic Shorts Model K,Apparel,36.64,11.45,1,2025-01-01 00:00:00
+PRD-000314,Everyday Casual Canvas Sneakers Model K,Apparel,52.17,17.07,1,2025-01-01 00:00:00
+PRD-000315,Stainless Steel Chef Knife 8-inch Model K,Home & Kitchen,51.1,17.03,1,2025-01-01 00:00:00
+PRD-000316,Pour-Over Glass Coffee Maker Model K,Home & Kitchen,32.89,10.42,1,2025-01-01 00:00:00
+PRD-000317,Cast Iron Skillet Pre-Seasoned Model K,Home & Kitchen,40.41,14.7,1,2025-01-01 00:00:00
+PRD-000318,Scented Aromatherapy Diffuser Model K,Home & Kitchen,20.3,6.27,1,2025-01-01 00:00:00
+PRD-000319,Organic Bamboo Cutting Board Set Model K,Home & Kitchen,30.04,8.96,1,2025-01-01 00:00:00
+PRD-000320,Silicone Cooking Utensil 10pc Set Model K,Home & Kitchen,22.19,6.66,1,2025-01-01 00:00:00
+PRD-000321,Hydrating Hyaluronic Acid Serum Model K,Beauty,26.88,5.69,1,2025-01-01 00:00:00
+PRD-000322,Gentle Foaming Daily Cleanser Model K,Beauty,19.91,4.52,1,2025-01-01 00:00:00
+PRD-000323,Broad Spectrum SPF 50 Mineral Sunscreen Model K,Beauty,22.79,5.18,1,2025-01-01 00:00:00
+PRD-000324,Nourishing Vitamin E Night Cream Model K,Beauty,36.34,8.55,1,2025-01-01 00:00:00
+PRD-000325,Purifying Clay Face Mask Model K,Beauty,14.99,3.28,1,2025-01-01 00:00:00
+PRD-000326,High-Density Anti-Tear Yoga Mat Model K,Sports,25.45,8.18,1,2025-01-01 00:00:00
+PRD-000327,Adjustable Dumbbell Pair 25lb Model K,Sports,130.28,59.71,1,2025-01-01 00:00:00
+PRD-000328,Insulated Stainless Water Bottle 32oz Model K,Sports,22.52,6.31,1,2025-01-01 00:00:00
+PRD-000329,Elastic Resistance Bands 5-Pack Model K,Sports,14.17,3.59,1,2025-01-01 00:00:00
+PRD-000330,Compact Foam Roller for Muscle Recovery Model L,Sports,22.56,6.21,1,2025-01-01 00:00:00
+PRD-000331,Noise-Cancelling Headphones Model L,Electronics,136.24,59.04,1,2025-01-01 00:00:00
+PRD-000332,Wireless Mechanical Keyboard Model L,Electronics,83.18,36.97,1,2025-01-01 00:00:00
+PRD-000333,Ultra-HD Webcam 4K Model L,Electronics,128.11,55.75,1,2025-01-01 00:00:00
+PRD-000334,Bluetooth Smart Speaker Model L,Electronics,48.88,20.53,1,2025-01-01 00:00:00
+PRD-000335,Multi-Port USB-C Hub Model L,Electronics,34.1,12.18,1,2025-01-01 00:00:00
+PRD-000336,Gaming Optical Mouse Model L,Electronics,58.34,23.34,1,2025-01-01 00:00:00
+PRD-000337,Fast Wireless Charger Pad Model L,Electronics,27.12,9.76,1,2025-01-01 00:00:00
+PRD-000338,Portable Power Bank 20000mAh Model L,Electronics,37.37,14.95,1,2025-01-01 00:00:00
+PRD-000339,Classic Cotton Crewneck T-Shirt Model L,Apparel,25.76,7.89,1,2025-01-01 00:00:00
+PRD-000340,Slim-Fit Stretch Denim Jeans Model L,Apparel,61.33,19.84,1,2025-01-01 00:00:00
+PRD-000341,Waterproof Windbreaker Jacket Model L,Apparel,103.09,36.89,1,2025-01-01 00:00:00
+PRD-000342,Merino Wool Knit Sweater Model L,Apparel,88.01,32.1,1,2025-01-01 00:00:00
+PRD-000343,Breathable Athletic Shorts Model L,Apparel,32.51,10.16,1,2025-01-01 00:00:00
+PRD-000344,Everyday Casual Canvas Sneakers Model L,Apparel,52.4,17.15,1,2025-01-01 00:00:00
+PRD-000345,Stainless Steel Chef Knife 8-inch Model L,Home & Kitchen,45.19,15.06,1,2025-01-01 00:00:00
+PRD-000346,Pour-Over Glass Coffee Maker Model L,Home & Kitchen,30.33,9.61,1,2025-01-01 00:00:00
+PRD-000347,Cast Iron Skillet Pre-Seasoned Model L,Home & Kitchen,37.32,13.57,1,2025-01-01 00:00:00
+PRD-000348,Scented Aromatherapy Diffuser Model L,Home & Kitchen,20.42,6.31,1,2025-01-01 00:00:00
+PRD-000349,Organic Bamboo Cutting Board Set Model L,Home & Kitchen,29.32,8.74,1,2025-01-01 00:00:00
+PRD-000350,Silicone Cooking Utensil 10pc Set Model L,Home & Kitchen,21.39,6.42,1,2025-01-01 00:00:00
+PRD-000351,Hydrating Hyaluronic Acid Serum Model L,Beauty,28.25,5.98,1,2025-01-01 00:00:00
+PRD-000352,Gentle Foaming Daily Cleanser Model L,Beauty,20.31,4.61,1,2025-01-01 00:00:00
+PRD-000353,Broad Spectrum SPF 50 Mineral Sunscreen Model L,Beauty,22.9,5.2,1,2025-01-01 00:00:00
+PRD-000354,Nourishing Vitamin E Night Cream Model L,Beauty,38.44,9.04,1,2025-01-01 00:00:00
+PRD-000355,Purifying Clay Face Mask Model L,Beauty,16.38,3.58,1,2025-01-01 00:00:00
+PRD-000356,High-Density Anti-Tear Yoga Mat Model L,Sports,26.24,8.43,1,2025-01-01 00:00:00
+PRD-000357,Adjustable Dumbbell Pair 25lb Model L,Sports,118.05,54.11,1,2025-01-01 00:00:00
+PRD-000358,Insulated Stainless Water Bottle 32oz Model L,Sports,23.12,6.48,1,2025-01-01 00:00:00
+PRD-000359,Elastic Resistance Bands 5-Pack Model L,Sports,15.3,3.88,1,2025-01-01 00:00:00
+PRD-000360,Compact Foam Roller for Muscle Recovery Model M,Sports,19.77,5.44,1,2025-01-01 00:00:00
+PRD-000361,Noise-Cancelling Headphones Model M,Electronics,148.19,64.22,1,2025-01-01 00:00:00
+PRD-000362,Wireless Mechanical Keyboard Model M,Electronics,94.13,41.84,1,2025-01-01 00:00:00
+PRD-000363,Ultra-HD Webcam 4K Model M,Electronics,121.45,52.85,1,2025-01-01 00:00:00
+PRD-000364,Bluetooth Smart Speaker Model M,Electronics,54.06,22.71,1,2025-01-01 00:00:00
+PRD-000365,Multi-Port USB-C Hub Model M,Electronics,37.21,13.29,1,2025-01-01 00:00:00
+PRD-000366,Gaming Optical Mouse Model M,Electronics,58.13,23.25,1,2025-01-01 00:00:00
+PRD-000367,Fast Wireless Charger Pad Model M,Electronics,25.3,9.11,1,2025-01-01 00:00:00
+PRD-000368,Portable Power Bank 20000mAh Model M,Electronics,36.48,14.59,1,2025-01-01 00:00:00
+PRD-000369,Classic Cotton Crewneck T-Shirt Model M,Apparel,22.49,6.88,1,2025-01-01 00:00:00
+PRD-000370,Slim-Fit Stretch Denim Jeans Model M,Apparel,66.35,21.47,1,2025-01-01 00:00:00
+PRD-000371,Waterproof Windbreaker Jacket Model M,Apparel,98.37,35.21,1,2025-01-01 00:00:00
+PRD-000372,Merino Wool Knit Sweater Model M,Apparel,95.53,34.84,1,2025-01-01 00:00:00
+PRD-000373,Breathable Athletic Shorts Model M,Apparel,29.07,9.08,1,2025-01-01 00:00:00
+PRD-000374,Everyday Casual Canvas Sneakers Model M,Apparel,53.2,17.41,1,2025-01-01 00:00:00
+PRD-000375,Stainless Steel Chef Knife 8-inch Model M,Home & Kitchen,45.6,15.2,1,2025-01-01 00:00:00
+PRD-000376,Pour-Over Glass Coffee Maker Model M,Home & Kitchen,29.64,9.39,1,2025-01-01 00:00:00
+PRD-000377,Cast Iron Skillet Pre-Seasoned Model M,Home & Kitchen,35.17,12.79,1,2025-01-01 00:00:00
+PRD-000378,Scented Aromatherapy Diffuser Model M,Home & Kitchen,22.51,6.96,1,2025-01-01 00:00:00
+PRD-000379,Organic Bamboo Cutting Board Set Model M,Home & Kitchen,31.0,9.24,1,2025-01-01 00:00:00
+PRD-000380,Silicone Cooking Utensil 10pc Set Model M,Home & Kitchen,21.09,6.33,1,2025-01-01 00:00:00
+PRD-000381,Hydrating Hyaluronic Acid Serum Model M,Beauty,28.51,6.03,1,2025-01-01 00:00:00
+PRD-000382,Gentle Foaming Daily Cleanser Model M,Beauty,20.88,4.74,1,2025-01-01 00:00:00
+PRD-000383,Broad Spectrum SPF 50 Mineral Sunscreen Model M,Beauty,20.73,4.71,1,2025-01-01 00:00:00
+PRD-000384,Nourishing Vitamin E Night Cream Model M,Beauty,36.14,8.5,1,2025-01-01 00:00:00
+PRD-000385,Purifying Clay Face Mask Model M,Beauty,17.68,3.87,1,2025-01-01 00:00:00
+PRD-000386,High-Density Anti-Tear Yoga Mat Model M,Sports,26.9,8.65,1,2025-01-01 00:00:00
+PRD-000387,Adjustable Dumbbell Pair 25lb Model M,Sports,116.15,53.23,1,2025-01-01 00:00:00
+PRD-000388,Insulated Stainless Water Bottle 32oz Model M,Sports,28.38,7.95,1,2025-01-01 00:00:00
+PRD-000389,Elastic Resistance Bands 5-Pack Model M,Sports,14.22,3.6,1,2025-01-01 00:00:00
+PRD-000390,Compact Foam Roller for Muscle Recovery Model N,Sports,22.16,6.1,1,2025-01-01 00:00:00
+PRD-000391,Noise-Cancelling Headphones Model N,Electronics,156.99,68.03,1,2025-01-01 00:00:00
+PRD-000392,Wireless Mechanical Keyboard Model N,Electronics,83.42,37.08,1,2025-01-01 00:00:00
+PRD-000393,Ultra-HD Webcam 4K Model N,Electronics,119.61,52.05,1,2025-01-01 00:00:00
+PRD-000394,Bluetooth Smart Speaker Model N,Electronics,56.12,23.58,1,2025-01-01 00:00:00
+PRD-000395,Multi-Port USB-C Hub Model N,Electronics,38.95,13.92,1,2025-01-01 00:00:00
+PRD-000396,Gaming Optical Mouse Model N,Electronics,61.14,24.46,1,2025-01-01 00:00:00
+PRD-000397,Fast Wireless Charger Pad Model N,Electronics,22.52,8.11,1,2025-01-01 00:00:00
+PRD-000398,Portable Power Bank 20000mAh Model N,Electronics,44.02,17.61,1,2025-01-01 00:00:00
+PRD-000399,Classic Cotton Crewneck T-Shirt Model N,Apparel,23.9,7.32,1,2025-01-01 00:00:00
+PRD-000400,Slim-Fit Stretch Denim Jeans Model N,Apparel,65.64,21.24,1,2025-01-01 00:00:00
+PRD-000401,Waterproof Windbreaker Jacket Model N,Apparel,98.94,35.41,1,2025-01-01 00:00:00
+PRD-000402,Merino Wool Knit Sweater Model N,Apparel,87.2,31.8,1,2025-01-01 00:00:00
+PRD-000403,Breathable Athletic Shorts Model N,Apparel,31.99,10.0,1,2025-01-01 00:00:00
+PRD-000404,Everyday Casual Canvas Sneakers Model N,Apparel,52.46,17.17,1,2025-01-01 00:00:00
+PRD-000405,Stainless Steel Chef Knife 8-inch Model N,Home & Kitchen,41.78,13.93,1,2025-01-01 00:00:00
+PRD-000406,Pour-Over Glass Coffee Maker Model N,Home & Kitchen,31.54,9.99,1,2025-01-01 00:00:00
+PRD-000407,Cast Iron Skillet Pre-Seasoned Model N,Home & Kitchen,39.14,14.23,1,2025-01-01 00:00:00
+PRD-000408,Scented Aromatherapy Diffuser Model N,Home & Kitchen,25.0,7.73,1,2025-01-01 00:00:00
+PRD-000409,Organic Bamboo Cutting Board Set Model N,Home & Kitchen,29.54,8.81,1,2025-01-01 00:00:00
+PRD-000410,Silicone Cooking Utensil 10pc Set Model N,Home & Kitchen,18.45,5.54,1,2025-01-01 00:00:00
+PRD-000411,Hydrating Hyaluronic Acid Serum Model N,Beauty,24.63,5.21,1,2025-01-01 00:00:00
+PRD-000412,Gentle Foaming Daily Cleanser Model N,Beauty,20.36,4.62,1,2025-01-01 00:00:00
+PRD-000413,Broad Spectrum SPF 50 Mineral Sunscreen Model N,Beauty,21.22,4.82,1,2025-01-01 00:00:00
+PRD-000414,Nourishing Vitamin E Night Cream Model N,Beauty,30.99,7.29,1,2025-01-01 00:00:00
+PRD-000415,Purifying Clay Face Mask Model N,Beauty,15.12,3.31,1,2025-01-01 00:00:00
+PRD-000416,High-Density Anti-Tear Yoga Mat Model N,Sports,31.41,10.1,1,2025-01-01 00:00:00
+PRD-000417,Adjustable Dumbbell Pair 25lb Model N,Sports,113.52,52.03,1,2025-01-01 00:00:00
+PRD-000418,Insulated Stainless Water Bottle 32oz Model N,Sports,23.41,6.56,1,2025-01-01 00:00:00
+PRD-000419,Elastic Resistance Bands 5-Pack Model N,Sports,17.15,4.35,1,2025-01-01 00:00:00
+PRD-000420,Compact Foam Roller for Muscle Recovery Model O,Sports,18.82,5.18,1,2025-01-01 00:00:00
+PRD-000421,Noise-Cancelling Headphones Model O,Electronics,162.19,70.29,1,2025-01-01 00:00:00
+PRD-000422,Wireless Mechanical Keyboard Model O,Electronics,85.38,37.95,1,2025-01-01 00:00:00
+PRD-000423,Ultra-HD Webcam 4K Model O,Electronics,132.98,57.87,1,2025-01-01 00:00:00
+PRD-000424,Bluetooth Smart Speaker Model O,Electronics,54.53,22.91,1,2025-01-01 00:00:00
+PRD-000425,Multi-Port USB-C Hub Model O,Electronics,33.04,11.8,1,2025-01-01 00:00:00
+PRD-000426,Gaming Optical Mouse Model O,Electronics,59.03,23.62,1,2025-01-01 00:00:00
+PRD-000427,Fast Wireless Charger Pad Model O,Electronics,24.11,8.68,1,2025-01-01 00:00:00
+PRD-000428,Portable Power Bank 20000mAh Model O,Electronics,45.29,18.12,1,2025-01-01 00:00:00
+PRD-000429,Classic Cotton Crewneck T-Shirt Model O,Apparel,25.7,7.87,1,2025-01-01 00:00:00
+PRD-000430,Slim-Fit Stretch Denim Jeans Model O,Apparel,62.15,20.11,1,2025-01-01 00:00:00
+PRD-000431,Waterproof Windbreaker Jacket Model O,Apparel,104.4,37.36,1,2025-01-01 00:00:00
+PRD-000432,Merino Wool Knit Sweater Model O,Apparel,81.28,29.64,1,2025-01-01 00:00:00
+PRD-000433,Breathable Athletic Shorts Model O,Apparel,36.67,11.46,1,2025-01-01 00:00:00
+PRD-000434,Everyday Casual Canvas Sneakers Model O,Apparel,52.27,17.11,1,2025-01-01 00:00:00
+PRD-000435,Stainless Steel Chef Knife 8-inch Model O,Home & Kitchen,46.86,15.62,1,2025-01-01 00:00:00
+PRD-000436,Pour-Over Glass Coffee Maker Model O,Home & Kitchen,27.64,8.76,1,2025-01-01 00:00:00
+PRD-000437,Cast Iron Skillet Pre-Seasoned Model O,Home & Kitchen,41.99,15.27,1,2025-01-01 00:00:00
+PRD-000438,Scented Aromatherapy Diffuser Model O,Home & Kitchen,25.13,7.77,1,2025-01-01 00:00:00
+PRD-000439,Organic Bamboo Cutting Board Set Model O,Home & Kitchen,31.27,9.32,1,2025-01-01 00:00:00
+PRD-000440,Silicone Cooking Utensil 10pc Set Model O,Home & Kitchen,20.25,6.08,1,2025-01-01 00:00:00
+PRD-000441,Hydrating Hyaluronic Acid Serum Model O,Beauty,24.63,5.21,1,2025-01-01 00:00:00
+PRD-000442,Gentle Foaming Daily Cleanser Model O,Beauty,21.21,4.81,1,2025-01-01 00:00:00
+PRD-000443,Broad Spectrum SPF 50 Mineral Sunscreen Model O,Beauty,21.49,4.88,1,2025-01-01 00:00:00
+PRD-000444,Nourishing Vitamin E Night Cream Model O,Beauty,31.75,7.47,1,2025-01-01 00:00:00
+PRD-000445,Purifying Clay Face Mask Model O,Beauty,16.22,3.55,1,2025-01-01 00:00:00
+PRD-000446,High-Density Anti-Tear Yoga Mat Model O,Sports,26.51,8.52,1,2025-01-01 00:00:00
+PRD-000447,Adjustable Dumbbell Pair 25lb Model O,Sports,108.19,49.59,1,2025-01-01 00:00:00
+PRD-000448,Insulated Stainless Water Bottle 32oz Model O,Sports,23.91,6.7,1,2025-01-01 00:00:00
+PRD-000449,Elastic Resistance Bands 5-Pack Model O,Sports,15.3,3.88,1,2025-01-01 00:00:00
+PRD-000450,Compact Foam Roller for Muscle Recovery Model P,Sports,18.98,5.22,1,2025-01-01 00:00:00
+PRD-000451,Noise-Cancelling Headphones Model P,Electronics,167.08,72.41,1,2025-01-01 00:00:00
+PRD-000452,Wireless Mechanical Keyboard Model P,Electronics,85.84,38.16,1,2025-01-01 00:00:00
+PRD-000453,Ultra-HD Webcam 4K Model P,Electronics,129.55,56.37,1,2025-01-01 00:00:00
+PRD-000454,Bluetooth Smart Speaker Model P,Electronics,45.67,19.19,1,2025-01-01 00:00:00
+PRD-000455,Multi-Port USB-C Hub Model P,Electronics,35.42,12.65,1,2025-01-01 00:00:00
+PRD-000456,Gaming Optical Mouse Model P,Electronics,67.09,26.84,1,2025-01-01 00:00:00
+PRD-000457,Fast Wireless Charger Pad Model P,Electronics,23.82,8.57,1,2025-01-01 00:00:00
+PRD-000458,Portable Power Bank 20000mAh Model P,Electronics,39.48,15.79,1,2025-01-01 00:00:00
+PRD-000459,Classic Cotton Crewneck T-Shirt Model P,Apparel,22.55,6.9,1,2025-01-01 00:00:00
+PRD-000460,Slim-Fit Stretch Denim Jeans Model P,Apparel,64.49,20.86,1,2025-01-01 00:00:00
+PRD-000461,Waterproof Windbreaker Jacket Model P,Apparel,98.07,35.1,1,2025-01-01 00:00:00
+PRD-000462,Merino Wool Knit Sweater Model P,Apparel,96.9,35.34,1,2025-01-01 00:00:00
+PRD-000463,Breathable Athletic Shorts Model P,Apparel,30.28,9.46,1,2025-01-01 00:00:00
+PRD-000464,Everyday Casual Canvas Sneakers Model P,Apparel,49.73,16.28,1,2025-01-01 00:00:00
+PRD-000465,Stainless Steel Chef Knife 8-inch Model P,Home & Kitchen,51.26,17.09,1,2025-01-01 00:00:00
+PRD-000466,Pour-Over Glass Coffee Maker Model P,Home & Kitchen,33.76,10.7,1,2025-01-01 00:00:00
+PRD-000467,Cast Iron Skillet Pre-Seasoned Model P,Home & Kitchen,34.69,12.62,1,2025-01-01 00:00:00
+PRD-000468,Scented Aromatherapy Diffuser Model P,Home & Kitchen,21.42,6.62,1,2025-01-01 00:00:00
+PRD-000469,Organic Bamboo Cutting Board Set Model P,Home & Kitchen,30.49,9.09,1,2025-01-01 00:00:00
+PRD-000470,Silicone Cooking Utensil 10pc Set Model P,Home & Kitchen,22.68,6.81,1,2025-01-01 00:00:00
+PRD-000471,Hydrating Hyaluronic Acid Serum Model P,Beauty,23.85,5.04,1,2025-01-01 00:00:00
+PRD-000472,Gentle Foaming Daily Cleanser Model P,Beauty,17.21,3.91,1,2025-01-01 00:00:00
+PRD-000473,Broad Spectrum SPF 50 Mineral Sunscreen Model P,Beauty,24.18,5.49,1,2025-01-01 00:00:00
+PRD-000474,Nourishing Vitamin E Night Cream Model P,Beauty,33.41,7.86,1,2025-01-01 00:00:00
+PRD-000475,Purifying Clay Face Mask Model P,Beauty,15.76,3.45,1,2025-01-01 00:00:00
+PRD-000476,High-Density Anti-Tear Yoga Mat Model P,Sports,25.69,8.26,1,2025-01-01 00:00:00
+PRD-000477,Adjustable Dumbbell Pair 25lb Model P,Sports,123.92,56.8,1,2025-01-01 00:00:00
+PRD-000478,Insulated Stainless Water Bottle 32oz Model P,Sports,24.35,6.82,1,2025-01-01 00:00:00
+PRD-000479,Elastic Resistance Bands 5-Pack Model P,Sports,15.91,4.03,1,2025-01-01 00:00:00
+PRD-000480,Compact Foam Roller for Muscle Recovery Model Q,Sports,19.56,5.38,1,2025-01-01 00:00:00
+PRD-000481,Noise-Cancelling Headphones Model Q,Electronics,149.25,64.68,1,2025-01-01 00:00:00
+PRD-000482,Wireless Mechanical Keyboard Model Q,Electronics,81.07,36.04,1,2025-01-01 00:00:00
+PRD-000483,Ultra-HD Webcam 4K Model Q,Electronics,131.99,57.44,1,2025-01-01 00:00:00
+PRD-000484,Bluetooth Smart Speaker Model Q,Electronics,51.23,21.52,1,2025-01-01 00:00:00
+PRD-000485,Multi-Port USB-C Hub Model Q,Electronics,38.76,13.85,1,2025-01-01 00:00:00
+PRD-000486,Gaming Optical Mouse Model Q,Electronics,63.59,25.44,1,2025-01-01 00:00:00
+PRD-000487,Fast Wireless Charger Pad Model Q,Electronics,24.04,8.65,1,2025-01-01 00:00:00
+PRD-000488,Portable Power Bank 20000mAh Model Q,Electronics,39.43,15.78,1,2025-01-01 00:00:00
+PRD-000489,Classic Cotton Crewneck T-Shirt Model Q,Apparel,24.5,7.5,1,2025-01-01 00:00:00
+PRD-000490,Slim-Fit Stretch Denim Jeans Model Q,Apparel,76.18,24.65,1,2025-01-01 00:00:00
+PRD-000491,Waterproof Windbreaker Jacket Model Q,Apparel,104.25,37.31,1,2025-01-01 00:00:00
+PRD-000492,Merino Wool Knit Sweater Model Q,Apparel,82.48,30.08,1,2025-01-01 00:00:00
+PRD-000493,Breathable Athletic Shorts Model Q,Apparel,31.56,9.86,1,2025-01-01 00:00:00
+PRD-000494,Everyday Casual Canvas Sneakers Model Q,Apparel,59.51,19.48,1,2025-01-01 00:00:00
+PRD-000495,Stainless Steel Chef Knife 8-inch Model Q,Home & Kitchen,44.35,14.78,1,2025-01-01 00:00:00
+PRD-000496,Pour-Over Glass Coffee Maker Model Q,Home & Kitchen,30.76,9.75,1,2025-01-01 00:00:00
+PRD-000497,Cast Iron Skillet Pre-Seasoned Model Q,Home & Kitchen,41.19,14.98,1,2025-01-01 00:00:00
+PRD-000498,Scented Aromatherapy Diffuser Model Q,Home & Kitchen,22.22,6.87,1,2025-01-01 00:00:00
+PRD-000499,Organic Bamboo Cutting Board Set Model Q,Home & Kitchen,30.1,8.98,1,2025-01-01 00:00:00
+PRD-000500,Silicone Cooking Utensil 10pc Set Model Q,Home & Kitchen,18.2,5.46,1,2025-01-01 00:00:00

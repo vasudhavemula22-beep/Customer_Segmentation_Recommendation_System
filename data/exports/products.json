@@ -1,0 +1,4502 @@
+[
+  {
+    "product_id": "PRD-000001",
+    "product_name": "Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "base_price": 147.18,
+    "cost": 63.78,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000002",
+    "product_name": "Wireless Mechanical Keyboard",
+    "category": "Electronics",
+    "base_price": 88.61,
+    "cost": 39.39,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000003",
+    "product_name": "Ultra-HD Webcam 4K",
+    "category": "Electronics",
+    "base_price": 136.63,
+    "cost": 59.45,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000004",
+    "product_name": "Bluetooth Smart Speaker",
+    "category": "Electronics",
+    "base_price": 52.3,
+    "cost": 21.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000005",
+    "product_name": "Multi-Port USB-C Hub",
+    "category": "Electronics",
+    "base_price": 36.63,
+    "cost": 13.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000006",
+    "product_name": "Gaming Optical Mouse",
+    "category": "Electronics",
+    "base_price": 66.5,
+    "cost": 26.6,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000007",
+    "product_name": "Fast Wireless Charger Pad",
+    "category": "Electronics",
+    "base_price": 28.61,
+    "cost": 10.3,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000008",
+    "product_name": "Portable Power Bank 20000mAh",
+    "category": "Electronics",
+    "base_price": 36.64,
+    "cost": 14.66,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000009",
+    "product_name": "Classic Cotton Crewneck T-Shirt",
+    "category": "Apparel",
+    "base_price": 22.96,
+    "cost": 7.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000010",
+    "product_name": "Slim-Fit Stretch Denim Jeans",
+    "category": "Apparel",
+    "base_price": 72.4,
+    "cost": 23.42,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000011",
+    "product_name": "Waterproof Windbreaker Jacket",
+    "category": "Apparel",
+    "base_price": 98.52,
+    "cost": 35.26,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000012",
+    "product_name": "Merino Wool Knit Sweater",
+    "category": "Apparel",
+    "base_price": 79.29,
+    "cost": 28.92,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000013",
+    "product_name": "Breathable Athletic Shorts",
+    "category": "Apparel",
+    "base_price": 36.21,
+    "cost": 11.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000014",
+    "product_name": "Everyday Casual Canvas Sneakers",
+    "category": "Apparel",
+    "base_price": 50.67,
+    "cost": 16.58,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000015",
+    "product_name": "Stainless Steel Chef Knife 8-inch",
+    "category": "Home & Kitchen",
+    "base_price": 47.15,
+    "cost": 15.72,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000016",
+    "product_name": "Pour-Over Glass Coffee Maker",
+    "category": "Home & Kitchen",
+    "base_price": 29.3,
+    "cost": 9.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000017",
+    "product_name": "Cast Iron Skillet Pre-Seasoned",
+    "category": "Home & Kitchen",
+    "base_price": 39.66,
+    "cost": 14.42,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000018",
+    "product_name": "Scented Aromatherapy Diffuser",
+    "category": "Home & Kitchen",
+    "base_price": 20.3,
+    "cost": 6.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000019",
+    "product_name": "Organic Bamboo Cutting Board Set",
+    "category": "Home & Kitchen",
+    "base_price": 26.66,
+    "cost": 7.95,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000020",
+    "product_name": "Silicone Cooking Utensil 10pc Set",
+    "category": "Home & Kitchen",
+    "base_price": 21.25,
+    "cost": 6.38,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000021",
+    "product_name": "Hydrating Hyaluronic Acid Serum",
+    "category": "Beauty",
+    "base_price": 27.16,
+    "cost": 5.74,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000022",
+    "product_name": "Gentle Foaming Daily Cleanser",
+    "category": "Beauty",
+    "base_price": 18.65,
+    "cost": 4.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000023",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen",
+    "category": "Beauty",
+    "base_price": 20.32,
+    "cost": 4.62,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000024",
+    "product_name": "Nourishing Vitamin E Night Cream",
+    "category": "Beauty",
+    "base_price": 37.84,
+    "cost": 8.9,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000025",
+    "product_name": "Purifying Clay Face Mask",
+    "category": "Beauty",
+    "base_price": 15.67,
+    "cost": 3.43,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000026",
+    "product_name": "High-Density Anti-Tear Yoga Mat",
+    "category": "Sports",
+    "base_price": 25.89,
+    "cost": 8.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000027",
+    "product_name": "Adjustable Dumbbell Pair 25lb",
+    "category": "Sports",
+    "base_price": 120.58,
+    "cost": 55.27,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000028",
+    "product_name": "Insulated Stainless Water Bottle 32oz",
+    "category": "Sports",
+    "base_price": 26.3,
+    "cost": 7.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000029",
+    "product_name": "Elastic Resistance Bands 5-Pack",
+    "category": "Sports",
+    "base_price": 17.16,
+    "cost": 4.35,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000030",
+    "product_name": "Compact Foam Roller for Muscle Recovery",
+    "category": "Sports",
+    "base_price": 20.63,
+    "cost": 5.68,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000031",
+    "product_name": "Noise-Cancelling Headphones Model B",
+    "category": "Electronics",
+    "base_price": 152.52,
+    "cost": 66.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000032",
+    "product_name": "Wireless Mechanical Keyboard Model B",
+    "category": "Electronics",
+    "base_price": 83.22,
+    "cost": 36.99,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000033",
+    "product_name": "Ultra-HD Webcam 4K Model B",
+    "category": "Electronics",
+    "base_price": 122.13,
+    "cost": 53.14,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000034",
+    "product_name": "Bluetooth Smart Speaker Model B",
+    "category": "Electronics",
+    "base_price": 57.12,
+    "cost": 24.0,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000035",
+    "product_name": "Multi-Port USB-C Hub Model B",
+    "category": "Electronics",
+    "base_price": 33.58,
+    "cost": 12.0,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000036",
+    "product_name": "Gaming Optical Mouse Model B",
+    "category": "Electronics",
+    "base_price": 62.69,
+    "cost": 25.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000037",
+    "product_name": "Fast Wireless Charger Pad Model B",
+    "category": "Electronics",
+    "base_price": 28.66,
+    "cost": 10.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000038",
+    "product_name": "Portable Power Bank 20000mAh Model B",
+    "category": "Electronics",
+    "base_price": 45.38,
+    "cost": 18.16,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000039",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model B",
+    "category": "Apparel",
+    "base_price": 26.09,
+    "cost": 7.99,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000040",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model B",
+    "category": "Apparel",
+    "base_price": 76.85,
+    "cost": 24.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000041",
+    "product_name": "Waterproof Windbreaker Jacket Model B",
+    "category": "Apparel",
+    "base_price": 101.86,
+    "cost": 36.45,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000042",
+    "product_name": "Merino Wool Knit Sweater Model B",
+    "category": "Apparel",
+    "base_price": 96.34,
+    "cost": 35.14,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000043",
+    "product_name": "Breathable Athletic Shorts Model B",
+    "category": "Apparel",
+    "base_price": 32.58,
+    "cost": 10.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000044",
+    "product_name": "Everyday Casual Canvas Sneakers Model B",
+    "category": "Apparel",
+    "base_price": 54.92,
+    "cost": 17.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000045",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model B",
+    "category": "Home & Kitchen",
+    "base_price": 46.98,
+    "cost": 15.66,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000046",
+    "product_name": "Pour-Over Glass Coffee Maker Model B",
+    "category": "Home & Kitchen",
+    "base_price": 29.45,
+    "cost": 9.33,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000047",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model B",
+    "category": "Home & Kitchen",
+    "base_price": 37.35,
+    "cost": 13.58,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000048",
+    "product_name": "Scented Aromatherapy Diffuser Model B",
+    "category": "Home & Kitchen",
+    "base_price": 22.07,
+    "cost": 6.82,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000049",
+    "product_name": "Organic Bamboo Cutting Board Set Model B",
+    "category": "Home & Kitchen",
+    "base_price": 29.5,
+    "cost": 8.8,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000050",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model B",
+    "category": "Home & Kitchen",
+    "base_price": 18.57,
+    "cost": 5.57,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000051",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model B",
+    "category": "Beauty",
+    "base_price": 26.92,
+    "cost": 5.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000052",
+    "product_name": "Gentle Foaming Daily Cleanser Model B",
+    "category": "Beauty",
+    "base_price": 16.74,
+    "cost": 3.8,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000053",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model B",
+    "category": "Beauty",
+    "base_price": 23.07,
+    "cost": 5.24,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000054",
+    "product_name": "Nourishing Vitamin E Night Cream Model B",
+    "category": "Beauty",
+    "base_price": 34.99,
+    "cost": 8.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000055",
+    "product_name": "Purifying Clay Face Mask Model B",
+    "category": "Beauty",
+    "base_price": 15.18,
+    "cost": 3.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000056",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model B",
+    "category": "Sports",
+    "base_price": 27.25,
+    "cost": 8.76,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000057",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model B",
+    "category": "Sports",
+    "base_price": 128.88,
+    "cost": 59.07,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000058",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model B",
+    "category": "Sports",
+    "base_price": 24.32,
+    "cost": 6.81,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000059",
+    "product_name": "Elastic Resistance Bands 5-Pack Model B",
+    "category": "Sports",
+    "base_price": 16.49,
+    "cost": 4.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000060",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model C",
+    "category": "Sports",
+    "base_price": 22.21,
+    "cost": 6.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000061",
+    "product_name": "Noise-Cancelling Headphones Model C",
+    "category": "Electronics",
+    "base_price": 163.12,
+    "cost": 70.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000062",
+    "product_name": "Wireless Mechanical Keyboard Model C",
+    "category": "Electronics",
+    "base_price": 92.4,
+    "cost": 41.07,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000063",
+    "product_name": "Ultra-HD Webcam 4K Model C",
+    "category": "Electronics",
+    "base_price": 110.87,
+    "cost": 48.24,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000064",
+    "product_name": "Bluetooth Smart Speaker Model C",
+    "category": "Electronics",
+    "base_price": 55.23,
+    "cost": 23.2,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000065",
+    "product_name": "Multi-Port USB-C Hub Model C",
+    "category": "Electronics",
+    "base_price": 36.14,
+    "cost": 12.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000066",
+    "product_name": "Gaming Optical Mouse Model C",
+    "category": "Electronics",
+    "base_price": 60.42,
+    "cost": 24.17,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000067",
+    "product_name": "Fast Wireless Charger Pad Model C",
+    "category": "Electronics",
+    "base_price": 23.58,
+    "cost": 8.49,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000068",
+    "product_name": "Portable Power Bank 20000mAh Model C",
+    "category": "Electronics",
+    "base_price": 43.96,
+    "cost": 17.59,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000069",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model C",
+    "category": "Apparel",
+    "base_price": 23.18,
+    "cost": 7.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000070",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model C",
+    "category": "Apparel",
+    "base_price": 64.19,
+    "cost": 20.77,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000071",
+    "product_name": "Waterproof Windbreaker Jacket Model C",
+    "category": "Apparel",
+    "base_price": 98.58,
+    "cost": 35.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000072",
+    "product_name": "Merino Wool Knit Sweater Model C",
+    "category": "Apparel",
+    "base_price": 95.29,
+    "cost": 34.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000073",
+    "product_name": "Breathable Athletic Shorts Model C",
+    "category": "Apparel",
+    "base_price": 36.15,
+    "cost": 11.3,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000074",
+    "product_name": "Everyday Casual Canvas Sneakers Model C",
+    "category": "Apparel",
+    "base_price": 58.89,
+    "cost": 19.27,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000075",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model C",
+    "category": "Home & Kitchen",
+    "base_price": 50.64,
+    "cost": 16.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000076",
+    "product_name": "Pour-Over Glass Coffee Maker Model C",
+    "category": "Home & Kitchen",
+    "base_price": 27.18,
+    "cost": 8.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000077",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model C",
+    "category": "Home & Kitchen",
+    "base_price": 36.63,
+    "cost": 13.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000078",
+    "product_name": "Scented Aromatherapy Diffuser Model C",
+    "category": "Home & Kitchen",
+    "base_price": 21.95,
+    "cost": 6.79,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000079",
+    "product_name": "Organic Bamboo Cutting Board Set Model C",
+    "category": "Home & Kitchen",
+    "base_price": 30.47,
+    "cost": 9.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000080",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model C",
+    "category": "Home & Kitchen",
+    "base_price": 19.1,
+    "cost": 5.73,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000081",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model C",
+    "category": "Beauty",
+    "base_price": 24.3,
+    "cost": 5.14,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000082",
+    "product_name": "Gentle Foaming Daily Cleanser Model C",
+    "category": "Beauty",
+    "base_price": 20.04,
+    "cost": 4.55,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000083",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model C",
+    "category": "Beauty",
+    "base_price": 21.6,
+    "cost": 4.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000084",
+    "product_name": "Nourishing Vitamin E Night Cream Model C",
+    "category": "Beauty",
+    "base_price": 30.75,
+    "cost": 7.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000085",
+    "product_name": "Purifying Clay Face Mask Model C",
+    "category": "Beauty",
+    "base_price": 16.42,
+    "cost": 3.59,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000086",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model C",
+    "category": "Sports",
+    "base_price": 30.66,
+    "cost": 9.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000087",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model C",
+    "category": "Sports",
+    "base_price": 132.07,
+    "cost": 60.53,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000088",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model C",
+    "category": "Sports",
+    "base_price": 26.6,
+    "cost": 7.45,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000089",
+    "product_name": "Elastic Resistance Bands 5-Pack Model C",
+    "category": "Sports",
+    "base_price": 14.07,
+    "cost": 3.57,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000090",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model D",
+    "category": "Sports",
+    "base_price": 18.55,
+    "cost": 5.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000091",
+    "product_name": "Noise-Cancelling Headphones Model D",
+    "category": "Electronics",
+    "base_price": 164.72,
+    "cost": 71.38,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000092",
+    "product_name": "Wireless Mechanical Keyboard Model D",
+    "category": "Electronics",
+    "base_price": 91.12,
+    "cost": 40.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000093",
+    "product_name": "Ultra-HD Webcam 4K Model D",
+    "category": "Electronics",
+    "base_price": 132.14,
+    "cost": 57.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000094",
+    "product_name": "Bluetooth Smart Speaker Model D",
+    "category": "Electronics",
+    "base_price": 49.92,
+    "cost": 20.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000095",
+    "product_name": "Multi-Port USB-C Hub Model D",
+    "category": "Electronics",
+    "base_price": 36.53,
+    "cost": 13.05,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000096",
+    "product_name": "Gaming Optical Mouse Model D",
+    "category": "Electronics",
+    "base_price": 58.91,
+    "cost": 23.57,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000097",
+    "product_name": "Fast Wireless Charger Pad Model D",
+    "category": "Electronics",
+    "base_price": 22.85,
+    "cost": 8.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000098",
+    "product_name": "Portable Power Bank 20000mAh Model D",
+    "category": "Electronics",
+    "base_price": 37.33,
+    "cost": 14.94,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000099",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model D",
+    "category": "Apparel",
+    "base_price": 25.12,
+    "cost": 7.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000100",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model D",
+    "category": "Apparel",
+    "base_price": 74.06,
+    "cost": 23.96,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000101",
+    "product_name": "Waterproof Windbreaker Jacket Model D",
+    "category": "Apparel",
+    "base_price": 105.45,
+    "cost": 37.74,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000102",
+    "product_name": "Merino Wool Knit Sweater Model D",
+    "category": "Apparel",
+    "base_price": 93.42,
+    "cost": 34.07,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000103",
+    "product_name": "Breathable Athletic Shorts Model D",
+    "category": "Apparel",
+    "base_price": 34.29,
+    "cost": 10.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000104",
+    "product_name": "Everyday Casual Canvas Sneakers Model D",
+    "category": "Apparel",
+    "base_price": 51.24,
+    "cost": 16.77,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000105",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model D",
+    "category": "Home & Kitchen",
+    "base_price": 51.07,
+    "cost": 17.02,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000106",
+    "product_name": "Pour-Over Glass Coffee Maker Model D",
+    "category": "Home & Kitchen",
+    "base_price": 30.77,
+    "cost": 9.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000107",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model D",
+    "category": "Home & Kitchen",
+    "base_price": 37.16,
+    "cost": 13.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000108",
+    "product_name": "Scented Aromatherapy Diffuser Model D",
+    "category": "Home & Kitchen",
+    "base_price": 22.23,
+    "cost": 6.87,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000109",
+    "product_name": "Organic Bamboo Cutting Board Set Model D",
+    "category": "Home & Kitchen",
+    "base_price": 25.93,
+    "cost": 7.73,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000110",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model D",
+    "category": "Home & Kitchen",
+    "base_price": 20.64,
+    "cost": 6.19,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000111",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model D",
+    "category": "Beauty",
+    "base_price": 29.42,
+    "cost": 6.22,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000112",
+    "product_name": "Gentle Foaming Daily Cleanser Model D",
+    "category": "Beauty",
+    "base_price": 17.04,
+    "cost": 3.87,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000113",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model D",
+    "category": "Beauty",
+    "base_price": 23.36,
+    "cost": 5.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000114",
+    "product_name": "Nourishing Vitamin E Night Cream Model D",
+    "category": "Beauty",
+    "base_price": 33.3,
+    "cost": 7.84,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000115",
+    "product_name": "Purifying Clay Face Mask Model D",
+    "category": "Beauty",
+    "base_price": 16.18,
+    "cost": 3.54,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000116",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model D",
+    "category": "Sports",
+    "base_price": 26.77,
+    "cost": 8.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000117",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model D",
+    "category": "Sports",
+    "base_price": 121.17,
+    "cost": 55.54,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000118",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model D",
+    "category": "Sports",
+    "base_price": 27.94,
+    "cost": 7.83,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000119",
+    "product_name": "Elastic Resistance Bands 5-Pack Model D",
+    "category": "Sports",
+    "base_price": 14.43,
+    "cost": 3.66,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000120",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model E",
+    "category": "Sports",
+    "base_price": 19.0,
+    "cost": 5.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000121",
+    "product_name": "Noise-Cancelling Headphones Model E",
+    "category": "Electronics",
+    "base_price": 144.75,
+    "cost": 62.73,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000122",
+    "product_name": "Wireless Mechanical Keyboard Model E",
+    "category": "Electronics",
+    "base_price": 87.35,
+    "cost": 38.83,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000123",
+    "product_name": "Ultra-HD Webcam 4K Model E",
+    "category": "Electronics",
+    "base_price": 108.74,
+    "cost": 47.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000124",
+    "product_name": "Bluetooth Smart Speaker Model E",
+    "category": "Electronics",
+    "base_price": 47.1,
+    "cost": 19.79,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000125",
+    "product_name": "Multi-Port USB-C Hub Model E",
+    "category": "Electronics",
+    "base_price": 34.68,
+    "cost": 12.39,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000126",
+    "product_name": "Gaming Optical Mouse Model E",
+    "category": "Electronics",
+    "base_price": 61.6,
+    "cost": 24.64,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000127",
+    "product_name": "Fast Wireless Charger Pad Model E",
+    "category": "Electronics",
+    "base_price": 24.71,
+    "cost": 8.89,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000128",
+    "product_name": "Portable Power Bank 20000mAh Model E",
+    "category": "Electronics",
+    "base_price": 45.93,
+    "cost": 18.38,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000129",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model E",
+    "category": "Apparel",
+    "base_price": 23.94,
+    "cost": 7.33,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000130",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model E",
+    "category": "Apparel",
+    "base_price": 67.41,
+    "cost": 21.81,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000131",
+    "product_name": "Waterproof Windbreaker Jacket Model E",
+    "category": "Apparel",
+    "base_price": 92.23,
+    "cost": 33.01,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000132",
+    "product_name": "Merino Wool Knit Sweater Model E",
+    "category": "Apparel",
+    "base_price": 81.48,
+    "cost": 29.72,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000133",
+    "product_name": "Breathable Athletic Shorts Model E",
+    "category": "Apparel",
+    "base_price": 31.92,
+    "cost": 9.98,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000134",
+    "product_name": "Everyday Casual Canvas Sneakers Model E",
+    "category": "Apparel",
+    "base_price": 61.38,
+    "cost": 20.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000135",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model E",
+    "category": "Home & Kitchen",
+    "base_price": 46.82,
+    "cost": 15.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000136",
+    "product_name": "Pour-Over Glass Coffee Maker Model E",
+    "category": "Home & Kitchen",
+    "base_price": 27.17,
+    "cost": 8.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000137",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model E",
+    "category": "Home & Kitchen",
+    "base_price": 36.77,
+    "cost": 13.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000138",
+    "product_name": "Scented Aromatherapy Diffuser Model E",
+    "category": "Home & Kitchen",
+    "base_price": 22.52,
+    "cost": 6.96,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000139",
+    "product_name": "Organic Bamboo Cutting Board Set Model E",
+    "category": "Home & Kitchen",
+    "base_price": 31.47,
+    "cost": 9.38,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000140",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model E",
+    "category": "Home & Kitchen",
+    "base_price": 20.91,
+    "cost": 6.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000141",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model E",
+    "category": "Beauty",
+    "base_price": 29.33,
+    "cost": 6.21,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000142",
+    "product_name": "Gentle Foaming Daily Cleanser Model E",
+    "category": "Beauty",
+    "base_price": 19.61,
+    "cost": 4.45,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000143",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model E",
+    "category": "Beauty",
+    "base_price": 24.76,
+    "cost": 5.63,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000144",
+    "product_name": "Nourishing Vitamin E Night Cream Model E",
+    "category": "Beauty",
+    "base_price": 36.13,
+    "cost": 8.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000145",
+    "product_name": "Purifying Clay Face Mask Model E",
+    "category": "Beauty",
+    "base_price": 17.73,
+    "cost": 3.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000146",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model E",
+    "category": "Sports",
+    "base_price": 26.87,
+    "cost": 8.64,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000147",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model E",
+    "category": "Sports",
+    "base_price": 111.02,
+    "cost": 50.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000148",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model E",
+    "category": "Sports",
+    "base_price": 28.05,
+    "cost": 7.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000149",
+    "product_name": "Elastic Resistance Bands 5-Pack Model E",
+    "category": "Sports",
+    "base_price": 15.67,
+    "cost": 3.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000150",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model F",
+    "category": "Sports",
+    "base_price": 22.28,
+    "cost": 6.13,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000151",
+    "product_name": "Noise-Cancelling Headphones Model F",
+    "category": "Electronics",
+    "base_price": 142.92,
+    "cost": 61.94,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000152",
+    "product_name": "Wireless Mechanical Keyboard Model F",
+    "category": "Electronics",
+    "base_price": 89.67,
+    "cost": 39.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000153",
+    "product_name": "Ultra-HD Webcam 4K Model F",
+    "category": "Electronics",
+    "base_price": 112.79,
+    "cost": 49.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000154",
+    "product_name": "Bluetooth Smart Speaker Model F",
+    "category": "Electronics",
+    "base_price": 48.7,
+    "cost": 20.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000155",
+    "product_name": "Multi-Port USB-C Hub Model F",
+    "category": "Electronics",
+    "base_price": 32.8,
+    "cost": 11.72,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000156",
+    "product_name": "Gaming Optical Mouse Model F",
+    "category": "Electronics",
+    "base_price": 60.19,
+    "cost": 24.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000157",
+    "product_name": "Fast Wireless Charger Pad Model F",
+    "category": "Electronics",
+    "base_price": 27.09,
+    "cost": 9.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000158",
+    "product_name": "Portable Power Bank 20000mAh Model F",
+    "category": "Electronics",
+    "base_price": 40.97,
+    "cost": 16.39,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000159",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model F",
+    "category": "Apparel",
+    "base_price": 25.57,
+    "cost": 7.83,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000160",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model F",
+    "category": "Apparel",
+    "base_price": 67.05,
+    "cost": 21.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000161",
+    "product_name": "Waterproof Windbreaker Jacket Model F",
+    "category": "Apparel",
+    "base_price": 105.51,
+    "cost": 37.76,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000162",
+    "product_name": "Merino Wool Knit Sweater Model F",
+    "category": "Apparel",
+    "base_price": 80.91,
+    "cost": 29.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000163",
+    "product_name": "Breathable Athletic Shorts Model F",
+    "category": "Apparel",
+    "base_price": 29.23,
+    "cost": 9.13,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000164",
+    "product_name": "Everyday Casual Canvas Sneakers Model F",
+    "category": "Apparel",
+    "base_price": 59.8,
+    "cost": 19.57,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000165",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model F",
+    "category": "Home & Kitchen",
+    "base_price": 42.73,
+    "cost": 14.24,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000166",
+    "product_name": "Pour-Over Glass Coffee Maker Model F",
+    "category": "Home & Kitchen",
+    "base_price": 34.18,
+    "cost": 10.83,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000167",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model F",
+    "category": "Home & Kitchen",
+    "base_price": 37.09,
+    "cost": 13.49,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000168",
+    "product_name": "Scented Aromatherapy Diffuser Model F",
+    "category": "Home & Kitchen",
+    "base_price": 20.9,
+    "cost": 6.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000169",
+    "product_name": "Organic Bamboo Cutting Board Set Model F",
+    "category": "Home & Kitchen",
+    "base_price": 29.02,
+    "cost": 8.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000170",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model F",
+    "category": "Home & Kitchen",
+    "base_price": 18.37,
+    "cost": 5.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000171",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model F",
+    "category": "Beauty",
+    "base_price": 25.85,
+    "cost": 5.47,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000172",
+    "product_name": "Gentle Foaming Daily Cleanser Model F",
+    "category": "Beauty",
+    "base_price": 18.25,
+    "cost": 4.14,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000173",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model F",
+    "category": "Beauty",
+    "base_price": 22.06,
+    "cost": 5.01,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000174",
+    "product_name": "Nourishing Vitamin E Night Cream Model F",
+    "category": "Beauty",
+    "base_price": 38.95,
+    "cost": 9.16,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000175",
+    "product_name": "Purifying Clay Face Mask Model F",
+    "category": "Beauty",
+    "base_price": 17.33,
+    "cost": 3.79,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000176",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model F",
+    "category": "Sports",
+    "base_price": 27.1,
+    "cost": 8.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000177",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model F",
+    "category": "Sports",
+    "base_price": 118.01,
+    "cost": 54.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000178",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model F",
+    "category": "Sports",
+    "base_price": 27.64,
+    "cost": 7.74,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000179",
+    "product_name": "Elastic Resistance Bands 5-Pack Model F",
+    "category": "Sports",
+    "base_price": 14.11,
+    "cost": 3.58,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000180",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model G",
+    "category": "Sports",
+    "base_price": 21.07,
+    "cost": 5.8,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000181",
+    "product_name": "Noise-Cancelling Headphones Model G",
+    "category": "Electronics",
+    "base_price": 143.14,
+    "cost": 62.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000182",
+    "product_name": "Wireless Mechanical Keyboard Model G",
+    "category": "Electronics",
+    "base_price": 89.2,
+    "cost": 39.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000183",
+    "product_name": "Ultra-HD Webcam 4K Model G",
+    "category": "Electronics",
+    "base_price": 114.46,
+    "cost": 49.81,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000184",
+    "product_name": "Bluetooth Smart Speaker Model G",
+    "category": "Electronics",
+    "base_price": 45.82,
+    "cost": 19.25,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000185",
+    "product_name": "Multi-Port USB-C Hub Model G",
+    "category": "Electronics",
+    "base_price": 33.65,
+    "cost": 12.02,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000186",
+    "product_name": "Gaming Optical Mouse Model G",
+    "category": "Electronics",
+    "base_price": 59.38,
+    "cost": 23.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000187",
+    "product_name": "Fast Wireless Charger Pad Model G",
+    "category": "Electronics",
+    "base_price": 27.7,
+    "cost": 9.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000188",
+    "product_name": "Portable Power Bank 20000mAh Model G",
+    "category": "Electronics",
+    "base_price": 44.24,
+    "cost": 17.7,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000189",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model G",
+    "category": "Apparel",
+    "base_price": 26.74,
+    "cost": 8.19,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000190",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model G",
+    "category": "Apparel",
+    "base_price": 68.06,
+    "cost": 22.02,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000191",
+    "product_name": "Waterproof Windbreaker Jacket Model G",
+    "category": "Apparel",
+    "base_price": 108.67,
+    "cost": 38.89,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000192",
+    "product_name": "Merino Wool Knit Sweater Model G",
+    "category": "Apparel",
+    "base_price": 91.87,
+    "cost": 33.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000193",
+    "product_name": "Breathable Athletic Shorts Model G",
+    "category": "Apparel",
+    "base_price": 31.43,
+    "cost": 9.82,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000194",
+    "product_name": "Everyday Casual Canvas Sneakers Model G",
+    "category": "Apparel",
+    "base_price": 56.56,
+    "cost": 18.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000195",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model G",
+    "category": "Home & Kitchen",
+    "base_price": 48.18,
+    "cost": 16.06,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000196",
+    "product_name": "Pour-Over Glass Coffee Maker Model G",
+    "category": "Home & Kitchen",
+    "base_price": 28.99,
+    "cost": 9.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000197",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model G",
+    "category": "Home & Kitchen",
+    "base_price": 38.96,
+    "cost": 14.17,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000198",
+    "product_name": "Scented Aromatherapy Diffuser Model G",
+    "category": "Home & Kitchen",
+    "base_price": 22.76,
+    "cost": 7.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000199",
+    "product_name": "Organic Bamboo Cutting Board Set Model G",
+    "category": "Home & Kitchen",
+    "base_price": 27.77,
+    "cost": 8.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000200",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model G",
+    "category": "Home & Kitchen",
+    "base_price": 18.03,
+    "cost": 5.41,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000201",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model G",
+    "category": "Beauty",
+    "base_price": 27.96,
+    "cost": 5.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000202",
+    "product_name": "Gentle Foaming Daily Cleanser Model G",
+    "category": "Beauty",
+    "base_price": 17.81,
+    "cost": 4.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000203",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model G",
+    "category": "Beauty",
+    "base_price": 22.4,
+    "cost": 5.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000204",
+    "product_name": "Nourishing Vitamin E Night Cream Model G",
+    "category": "Beauty",
+    "base_price": 32.68,
+    "cost": 7.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000205",
+    "product_name": "Purifying Clay Face Mask Model G",
+    "category": "Beauty",
+    "base_price": 17.88,
+    "cost": 3.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000206",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model G",
+    "category": "Sports",
+    "base_price": 31.94,
+    "cost": 10.27,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000207",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model G",
+    "category": "Sports",
+    "base_price": 114.79,
+    "cost": 52.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000208",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model G",
+    "category": "Sports",
+    "base_price": 28.68,
+    "cost": 8.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000209",
+    "product_name": "Elastic Resistance Bands 5-Pack Model G",
+    "category": "Sports",
+    "base_price": 15.92,
+    "cost": 4.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000210",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model H",
+    "category": "Sports",
+    "base_price": 22.72,
+    "cost": 6.25,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000211",
+    "product_name": "Noise-Cancelling Headphones Model H",
+    "category": "Electronics",
+    "base_price": 147.56,
+    "cost": 63.95,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000212",
+    "product_name": "Wireless Mechanical Keyboard Model H",
+    "category": "Electronics",
+    "base_price": 97.82,
+    "cost": 43.48,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000213",
+    "product_name": "Ultra-HD Webcam 4K Model H",
+    "category": "Electronics",
+    "base_price": 136.37,
+    "cost": 59.34,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000214",
+    "product_name": "Bluetooth Smart Speaker Model H",
+    "category": "Electronics",
+    "base_price": 54.41,
+    "cost": 22.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000215",
+    "product_name": "Multi-Port USB-C Hub Model H",
+    "category": "Electronics",
+    "base_price": 37.66,
+    "cost": 13.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000216",
+    "product_name": "Gaming Optical Mouse Model H",
+    "category": "Electronics",
+    "base_price": 67.91,
+    "cost": 27.17,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000217",
+    "product_name": "Fast Wireless Charger Pad Model H",
+    "category": "Electronics",
+    "base_price": 26.04,
+    "cost": 9.38,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000218",
+    "product_name": "Portable Power Bank 20000mAh Model H",
+    "category": "Electronics",
+    "base_price": 38.81,
+    "cost": 15.53,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000219",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model H",
+    "category": "Apparel",
+    "base_price": 24.49,
+    "cost": 7.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000220",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model H",
+    "category": "Apparel",
+    "base_price": 70.98,
+    "cost": 22.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000221",
+    "product_name": "Waterproof Windbreaker Jacket Model H",
+    "category": "Apparel",
+    "base_price": 96.48,
+    "cost": 34.53,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000222",
+    "product_name": "Merino Wool Knit Sweater Model H",
+    "category": "Apparel",
+    "base_price": 78.18,
+    "cost": 28.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000223",
+    "product_name": "Breathable Athletic Shorts Model H",
+    "category": "Apparel",
+    "base_price": 29.12,
+    "cost": 9.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000224",
+    "product_name": "Everyday Casual Canvas Sneakers Model H",
+    "category": "Apparel",
+    "base_price": 54.47,
+    "cost": 17.83,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000225",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model H",
+    "category": "Home & Kitchen",
+    "base_price": 51.25,
+    "cost": 17.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000226",
+    "product_name": "Pour-Over Glass Coffee Maker Model H",
+    "category": "Home & Kitchen",
+    "base_price": 34.34,
+    "cost": 10.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000227",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model H",
+    "category": "Home & Kitchen",
+    "base_price": 39.51,
+    "cost": 14.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000228",
+    "product_name": "Scented Aromatherapy Diffuser Model H",
+    "category": "Home & Kitchen",
+    "base_price": 23.01,
+    "cost": 7.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000229",
+    "product_name": "Organic Bamboo Cutting Board Set Model H",
+    "category": "Home & Kitchen",
+    "base_price": 26.45,
+    "cost": 7.89,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000230",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model H",
+    "category": "Home & Kitchen",
+    "base_price": 19.17,
+    "cost": 5.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000231",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model H",
+    "category": "Beauty",
+    "base_price": 27.11,
+    "cost": 5.73,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000232",
+    "product_name": "Gentle Foaming Daily Cleanser Model H",
+    "category": "Beauty",
+    "base_price": 20.52,
+    "cost": 4.66,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000233",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model H",
+    "category": "Beauty",
+    "base_price": 21.69,
+    "cost": 4.93,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000234",
+    "product_name": "Nourishing Vitamin E Night Cream Model H",
+    "category": "Beauty",
+    "base_price": 38.66,
+    "cost": 9.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000235",
+    "product_name": "Purifying Clay Face Mask Model H",
+    "category": "Beauty",
+    "base_price": 15.29,
+    "cost": 3.34,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000236",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model H",
+    "category": "Sports",
+    "base_price": 30.33,
+    "cost": 9.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000237",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model H",
+    "category": "Sports",
+    "base_price": 122.26,
+    "cost": 56.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000238",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model H",
+    "category": "Sports",
+    "base_price": 23.19,
+    "cost": 6.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000239",
+    "product_name": "Elastic Resistance Bands 5-Pack Model H",
+    "category": "Sports",
+    "base_price": 14.48,
+    "cost": 3.67,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000240",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model I",
+    "category": "Sports",
+    "base_price": 19.42,
+    "cost": 5.34,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000241",
+    "product_name": "Noise-Cancelling Headphones Model I",
+    "category": "Electronics",
+    "base_price": 167.64,
+    "cost": 72.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000242",
+    "product_name": "Wireless Mechanical Keyboard Model I",
+    "category": "Electronics",
+    "base_price": 102.13,
+    "cost": 45.4,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000243",
+    "product_name": "Ultra-HD Webcam 4K Model I",
+    "category": "Electronics",
+    "base_price": 122.64,
+    "cost": 53.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000244",
+    "product_name": "Bluetooth Smart Speaker Model I",
+    "category": "Electronics",
+    "base_price": 50.76,
+    "cost": 21.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000245",
+    "product_name": "Multi-Port USB-C Hub Model I",
+    "category": "Electronics",
+    "base_price": 38.27,
+    "cost": 13.67,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000246",
+    "product_name": "Gaming Optical Mouse Model I",
+    "category": "Electronics",
+    "base_price": 60.6,
+    "cost": 24.24,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000247",
+    "product_name": "Fast Wireless Charger Pad Model I",
+    "category": "Electronics",
+    "base_price": 28.42,
+    "cost": 10.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000248",
+    "product_name": "Portable Power Bank 20000mAh Model I",
+    "category": "Electronics",
+    "base_price": 45.9,
+    "cost": 18.36,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000249",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model I",
+    "category": "Apparel",
+    "base_price": 26.26,
+    "cost": 8.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000250",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model I",
+    "category": "Apparel",
+    "base_price": 62.66,
+    "cost": 20.27,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000251",
+    "product_name": "Waterproof Windbreaker Jacket Model I",
+    "category": "Apparel",
+    "base_price": 103.45,
+    "cost": 37.02,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000252",
+    "product_name": "Merino Wool Knit Sweater Model I",
+    "category": "Apparel",
+    "base_price": 94.17,
+    "cost": 34.35,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000253",
+    "product_name": "Breathable Athletic Shorts Model I",
+    "category": "Apparel",
+    "base_price": 36.49,
+    "cost": 11.4,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000254",
+    "product_name": "Everyday Casual Canvas Sneakers Model I",
+    "category": "Apparel",
+    "base_price": 60.36,
+    "cost": 19.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000255",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model I",
+    "category": "Home & Kitchen",
+    "base_price": 43.82,
+    "cost": 14.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000256",
+    "product_name": "Pour-Over Glass Coffee Maker Model I",
+    "category": "Home & Kitchen",
+    "base_price": 28.56,
+    "cost": 9.05,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000257",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model I",
+    "category": "Home & Kitchen",
+    "base_price": 36.08,
+    "cost": 13.12,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000258",
+    "product_name": "Scented Aromatherapy Diffuser Model I",
+    "category": "Home & Kitchen",
+    "base_price": 23.73,
+    "cost": 7.34,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000259",
+    "product_name": "Organic Bamboo Cutting Board Set Model I",
+    "category": "Home & Kitchen",
+    "base_price": 29.3,
+    "cost": 8.74,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000260",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model I",
+    "category": "Home & Kitchen",
+    "base_price": 21.98,
+    "cost": 6.6,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000261",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model I",
+    "category": "Beauty",
+    "base_price": 29.88,
+    "cost": 6.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000262",
+    "product_name": "Gentle Foaming Daily Cleanser Model I",
+    "category": "Beauty",
+    "base_price": 17.52,
+    "cost": 3.98,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000263",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model I",
+    "category": "Beauty",
+    "base_price": 24.3,
+    "cost": 5.52,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000264",
+    "product_name": "Nourishing Vitamin E Night Cream Model I",
+    "category": "Beauty",
+    "base_price": 37.2,
+    "cost": 8.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000265",
+    "product_name": "Purifying Clay Face Mask Model I",
+    "category": "Beauty",
+    "base_price": 15.31,
+    "cost": 3.35,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000266",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model I",
+    "category": "Sports",
+    "base_price": 31.27,
+    "cost": 10.05,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000267",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model I",
+    "category": "Sports",
+    "base_price": 123.73,
+    "cost": 56.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000268",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model I",
+    "category": "Sports",
+    "base_price": 27.54,
+    "cost": 7.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000269",
+    "product_name": "Elastic Resistance Bands 5-Pack Model I",
+    "category": "Sports",
+    "base_price": 16.14,
+    "cost": 4.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000270",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model J",
+    "category": "Sports",
+    "base_price": 22.15,
+    "cost": 6.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000271",
+    "product_name": "Noise-Cancelling Headphones Model J",
+    "category": "Electronics",
+    "base_price": 142.98,
+    "cost": 61.96,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000272",
+    "product_name": "Wireless Mechanical Keyboard Model J",
+    "category": "Electronics",
+    "base_price": 83.81,
+    "cost": 37.25,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000273",
+    "product_name": "Ultra-HD Webcam 4K Model J",
+    "category": "Electronics",
+    "base_price": 126.76,
+    "cost": 55.16,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000274",
+    "product_name": "Bluetooth Smart Speaker Model J",
+    "category": "Electronics",
+    "base_price": 51.63,
+    "cost": 21.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000275",
+    "product_name": "Multi-Port USB-C Hub Model J",
+    "category": "Electronics",
+    "base_price": 37.12,
+    "cost": 13.26,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000276",
+    "product_name": "Gaming Optical Mouse Model J",
+    "category": "Electronics",
+    "base_price": 61.46,
+    "cost": 24.59,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000277",
+    "product_name": "Fast Wireless Charger Pad Model J",
+    "category": "Electronics",
+    "base_price": 27.19,
+    "cost": 9.79,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000278",
+    "product_name": "Portable Power Bank 20000mAh Model J",
+    "category": "Electronics",
+    "base_price": 37.32,
+    "cost": 14.93,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000279",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model J",
+    "category": "Apparel",
+    "base_price": 24.42,
+    "cost": 7.47,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000280",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model J",
+    "category": "Apparel",
+    "base_price": 62.78,
+    "cost": 20.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000281",
+    "product_name": "Waterproof Windbreaker Jacket Model J",
+    "category": "Apparel",
+    "base_price": 93.08,
+    "cost": 33.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000282",
+    "product_name": "Merino Wool Knit Sweater Model J",
+    "category": "Apparel",
+    "base_price": 81.64,
+    "cost": 29.78,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000283",
+    "product_name": "Breathable Athletic Shorts Model J",
+    "category": "Apparel",
+    "base_price": 29.77,
+    "cost": 9.3,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000284",
+    "product_name": "Everyday Casual Canvas Sneakers Model J",
+    "category": "Apparel",
+    "base_price": 62.36,
+    "cost": 20.41,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000285",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model J",
+    "category": "Home & Kitchen",
+    "base_price": 45.0,
+    "cost": 15.0,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000286",
+    "product_name": "Pour-Over Glass Coffee Maker Model J",
+    "category": "Home & Kitchen",
+    "base_price": 32.58,
+    "cost": 10.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000287",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model J",
+    "category": "Home & Kitchen",
+    "base_price": 35.48,
+    "cost": 12.9,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000288",
+    "product_name": "Scented Aromatherapy Diffuser Model J",
+    "category": "Home & Kitchen",
+    "base_price": 20.24,
+    "cost": 6.26,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000289",
+    "product_name": "Organic Bamboo Cutting Board Set Model J",
+    "category": "Home & Kitchen",
+    "base_price": 28.08,
+    "cost": 8.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000290",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model J",
+    "category": "Home & Kitchen",
+    "base_price": 20.69,
+    "cost": 6.21,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000291",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model J",
+    "category": "Beauty",
+    "base_price": 24.42,
+    "cost": 5.17,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000292",
+    "product_name": "Gentle Foaming Daily Cleanser Model J",
+    "category": "Beauty",
+    "base_price": 16.65,
+    "cost": 3.78,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000293",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model J",
+    "category": "Beauty",
+    "base_price": 22.33,
+    "cost": 5.07,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000294",
+    "product_name": "Nourishing Vitamin E Night Cream Model J",
+    "category": "Beauty",
+    "base_price": 37.85,
+    "cost": 8.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000295",
+    "product_name": "Purifying Clay Face Mask Model J",
+    "category": "Beauty",
+    "base_price": 14.7,
+    "cost": 3.22,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000296",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model J",
+    "category": "Sports",
+    "base_price": 29.51,
+    "cost": 9.49,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000297",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model J",
+    "category": "Sports",
+    "base_price": 134.06,
+    "cost": 61.44,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000298",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model J",
+    "category": "Sports",
+    "base_price": 26.17,
+    "cost": 7.33,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000299",
+    "product_name": "Elastic Resistance Bands 5-Pack Model J",
+    "category": "Sports",
+    "base_price": 15.11,
+    "cost": 3.83,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000300",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model K",
+    "category": "Sports",
+    "base_price": 20.75,
+    "cost": 5.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000301",
+    "product_name": "Noise-Cancelling Headphones Model K",
+    "category": "Electronics",
+    "base_price": 171.74,
+    "cost": 74.43,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000302",
+    "product_name": "Wireless Mechanical Keyboard Model K",
+    "category": "Electronics",
+    "base_price": 98.0,
+    "cost": 43.56,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000303",
+    "product_name": "Ultra-HD Webcam 4K Model K",
+    "category": "Electronics",
+    "base_price": 112.08,
+    "cost": 48.77,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000304",
+    "product_name": "Bluetooth Smart Speaker Model K",
+    "category": "Electronics",
+    "base_price": 49.0,
+    "cost": 20.58,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000305",
+    "product_name": "Multi-Port USB-C Hub Model K",
+    "category": "Electronics",
+    "base_price": 36.16,
+    "cost": 12.92,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000306",
+    "product_name": "Gaming Optical Mouse Model K",
+    "category": "Electronics",
+    "base_price": 57.4,
+    "cost": 22.96,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000307",
+    "product_name": "Fast Wireless Charger Pad Model K",
+    "category": "Electronics",
+    "base_price": 27.76,
+    "cost": 9.99,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000308",
+    "product_name": "Portable Power Bank 20000mAh Model K",
+    "category": "Electronics",
+    "base_price": 43.77,
+    "cost": 17.51,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000309",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model K",
+    "category": "Apparel",
+    "base_price": 26.27,
+    "cost": 8.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000310",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model K",
+    "category": "Apparel",
+    "base_price": 68.7,
+    "cost": 22.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000311",
+    "product_name": "Waterproof Windbreaker Jacket Model K",
+    "category": "Apparel",
+    "base_price": 104.42,
+    "cost": 37.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000312",
+    "product_name": "Merino Wool Knit Sweater Model K",
+    "category": "Apparel",
+    "base_price": 76.85,
+    "cost": 28.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000313",
+    "product_name": "Breathable Athletic Shorts Model K",
+    "category": "Apparel",
+    "base_price": 36.64,
+    "cost": 11.45,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000314",
+    "product_name": "Everyday Casual Canvas Sneakers Model K",
+    "category": "Apparel",
+    "base_price": 52.17,
+    "cost": 17.07,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000315",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model K",
+    "category": "Home & Kitchen",
+    "base_price": 51.1,
+    "cost": 17.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000316",
+    "product_name": "Pour-Over Glass Coffee Maker Model K",
+    "category": "Home & Kitchen",
+    "base_price": 32.89,
+    "cost": 10.42,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000317",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model K",
+    "category": "Home & Kitchen",
+    "base_price": 40.41,
+    "cost": 14.7,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000318",
+    "product_name": "Scented Aromatherapy Diffuser Model K",
+    "category": "Home & Kitchen",
+    "base_price": 20.3,
+    "cost": 6.27,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000319",
+    "product_name": "Organic Bamboo Cutting Board Set Model K",
+    "category": "Home & Kitchen",
+    "base_price": 30.04,
+    "cost": 8.96,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000320",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model K",
+    "category": "Home & Kitchen",
+    "base_price": 22.19,
+    "cost": 6.66,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000321",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model K",
+    "category": "Beauty",
+    "base_price": 26.88,
+    "cost": 5.69,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000322",
+    "product_name": "Gentle Foaming Daily Cleanser Model K",
+    "category": "Beauty",
+    "base_price": 19.91,
+    "cost": 4.52,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000323",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model K",
+    "category": "Beauty",
+    "base_price": 22.79,
+    "cost": 5.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000324",
+    "product_name": "Nourishing Vitamin E Night Cream Model K",
+    "category": "Beauty",
+    "base_price": 36.34,
+    "cost": 8.55,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000325",
+    "product_name": "Purifying Clay Face Mask Model K",
+    "category": "Beauty",
+    "base_price": 14.99,
+    "cost": 3.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000326",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model K",
+    "category": "Sports",
+    "base_price": 25.45,
+    "cost": 8.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000327",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model K",
+    "category": "Sports",
+    "base_price": 130.28,
+    "cost": 59.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000328",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model K",
+    "category": "Sports",
+    "base_price": 22.52,
+    "cost": 6.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000329",
+    "product_name": "Elastic Resistance Bands 5-Pack Model K",
+    "category": "Sports",
+    "base_price": 14.17,
+    "cost": 3.59,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000330",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model L",
+    "category": "Sports",
+    "base_price": 22.56,
+    "cost": 6.21,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000331",
+    "product_name": "Noise-Cancelling Headphones Model L",
+    "category": "Electronics",
+    "base_price": 136.24,
+    "cost": 59.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000332",
+    "product_name": "Wireless Mechanical Keyboard Model L",
+    "category": "Electronics",
+    "base_price": 83.18,
+    "cost": 36.97,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000333",
+    "product_name": "Ultra-HD Webcam 4K Model L",
+    "category": "Electronics",
+    "base_price": 128.11,
+    "cost": 55.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000334",
+    "product_name": "Bluetooth Smart Speaker Model L",
+    "category": "Electronics",
+    "base_price": 48.88,
+    "cost": 20.53,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000335",
+    "product_name": "Multi-Port USB-C Hub Model L",
+    "category": "Electronics",
+    "base_price": 34.1,
+    "cost": 12.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000336",
+    "product_name": "Gaming Optical Mouse Model L",
+    "category": "Electronics",
+    "base_price": 58.34,
+    "cost": 23.34,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000337",
+    "product_name": "Fast Wireless Charger Pad Model L",
+    "category": "Electronics",
+    "base_price": 27.12,
+    "cost": 9.76,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000338",
+    "product_name": "Portable Power Bank 20000mAh Model L",
+    "category": "Electronics",
+    "base_price": 37.37,
+    "cost": 14.95,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000339",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model L",
+    "category": "Apparel",
+    "base_price": 25.76,
+    "cost": 7.89,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000340",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model L",
+    "category": "Apparel",
+    "base_price": 61.33,
+    "cost": 19.84,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000341",
+    "product_name": "Waterproof Windbreaker Jacket Model L",
+    "category": "Apparel",
+    "base_price": 103.09,
+    "cost": 36.89,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000342",
+    "product_name": "Merino Wool Knit Sweater Model L",
+    "category": "Apparel",
+    "base_price": 88.01,
+    "cost": 32.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000343",
+    "product_name": "Breathable Athletic Shorts Model L",
+    "category": "Apparel",
+    "base_price": 32.51,
+    "cost": 10.16,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000344",
+    "product_name": "Everyday Casual Canvas Sneakers Model L",
+    "category": "Apparel",
+    "base_price": 52.4,
+    "cost": 17.15,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000345",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model L",
+    "category": "Home & Kitchen",
+    "base_price": 45.19,
+    "cost": 15.06,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000346",
+    "product_name": "Pour-Over Glass Coffee Maker Model L",
+    "category": "Home & Kitchen",
+    "base_price": 30.33,
+    "cost": 9.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000347",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model L",
+    "category": "Home & Kitchen",
+    "base_price": 37.32,
+    "cost": 13.57,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000348",
+    "product_name": "Scented Aromatherapy Diffuser Model L",
+    "category": "Home & Kitchen",
+    "base_price": 20.42,
+    "cost": 6.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000349",
+    "product_name": "Organic Bamboo Cutting Board Set Model L",
+    "category": "Home & Kitchen",
+    "base_price": 29.32,
+    "cost": 8.74,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000350",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model L",
+    "category": "Home & Kitchen",
+    "base_price": 21.39,
+    "cost": 6.42,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000351",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model L",
+    "category": "Beauty",
+    "base_price": 28.25,
+    "cost": 5.98,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000352",
+    "product_name": "Gentle Foaming Daily Cleanser Model L",
+    "category": "Beauty",
+    "base_price": 20.31,
+    "cost": 4.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000353",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model L",
+    "category": "Beauty",
+    "base_price": 22.9,
+    "cost": 5.2,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000354",
+    "product_name": "Nourishing Vitamin E Night Cream Model L",
+    "category": "Beauty",
+    "base_price": 38.44,
+    "cost": 9.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000355",
+    "product_name": "Purifying Clay Face Mask Model L",
+    "category": "Beauty",
+    "base_price": 16.38,
+    "cost": 3.58,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000356",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model L",
+    "category": "Sports",
+    "base_price": 26.24,
+    "cost": 8.43,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000357",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model L",
+    "category": "Sports",
+    "base_price": 118.05,
+    "cost": 54.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000358",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model L",
+    "category": "Sports",
+    "base_price": 23.12,
+    "cost": 6.48,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000359",
+    "product_name": "Elastic Resistance Bands 5-Pack Model L",
+    "category": "Sports",
+    "base_price": 15.3,
+    "cost": 3.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000360",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model M",
+    "category": "Sports",
+    "base_price": 19.77,
+    "cost": 5.44,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000361",
+    "product_name": "Noise-Cancelling Headphones Model M",
+    "category": "Electronics",
+    "base_price": 148.19,
+    "cost": 64.22,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000362",
+    "product_name": "Wireless Mechanical Keyboard Model M",
+    "category": "Electronics",
+    "base_price": 94.13,
+    "cost": 41.84,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000363",
+    "product_name": "Ultra-HD Webcam 4K Model M",
+    "category": "Electronics",
+    "base_price": 121.45,
+    "cost": 52.85,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000364",
+    "product_name": "Bluetooth Smart Speaker Model M",
+    "category": "Electronics",
+    "base_price": 54.06,
+    "cost": 22.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000365",
+    "product_name": "Multi-Port USB-C Hub Model M",
+    "category": "Electronics",
+    "base_price": 37.21,
+    "cost": 13.29,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000366",
+    "product_name": "Gaming Optical Mouse Model M",
+    "category": "Electronics",
+    "base_price": 58.13,
+    "cost": 23.25,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000367",
+    "product_name": "Fast Wireless Charger Pad Model M",
+    "category": "Electronics",
+    "base_price": 25.3,
+    "cost": 9.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000368",
+    "product_name": "Portable Power Bank 20000mAh Model M",
+    "category": "Electronics",
+    "base_price": 36.48,
+    "cost": 14.59,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000369",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model M",
+    "category": "Apparel",
+    "base_price": 22.49,
+    "cost": 6.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000370",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model M",
+    "category": "Apparel",
+    "base_price": 66.35,
+    "cost": 21.47,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000371",
+    "product_name": "Waterproof Windbreaker Jacket Model M",
+    "category": "Apparel",
+    "base_price": 98.37,
+    "cost": 35.21,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000372",
+    "product_name": "Merino Wool Knit Sweater Model M",
+    "category": "Apparel",
+    "base_price": 95.53,
+    "cost": 34.84,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000373",
+    "product_name": "Breathable Athletic Shorts Model M",
+    "category": "Apparel",
+    "base_price": 29.07,
+    "cost": 9.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000374",
+    "product_name": "Everyday Casual Canvas Sneakers Model M",
+    "category": "Apparel",
+    "base_price": 53.2,
+    "cost": 17.41,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000375",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model M",
+    "category": "Home & Kitchen",
+    "base_price": 45.6,
+    "cost": 15.2,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000376",
+    "product_name": "Pour-Over Glass Coffee Maker Model M",
+    "category": "Home & Kitchen",
+    "base_price": 29.64,
+    "cost": 9.39,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000377",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model M",
+    "category": "Home & Kitchen",
+    "base_price": 35.17,
+    "cost": 12.79,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000378",
+    "product_name": "Scented Aromatherapy Diffuser Model M",
+    "category": "Home & Kitchen",
+    "base_price": 22.51,
+    "cost": 6.96,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000379",
+    "product_name": "Organic Bamboo Cutting Board Set Model M",
+    "category": "Home & Kitchen",
+    "base_price": 31.0,
+    "cost": 9.24,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000380",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model M",
+    "category": "Home & Kitchen",
+    "base_price": 21.09,
+    "cost": 6.33,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000381",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model M",
+    "category": "Beauty",
+    "base_price": 28.51,
+    "cost": 6.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000382",
+    "product_name": "Gentle Foaming Daily Cleanser Model M",
+    "category": "Beauty",
+    "base_price": 20.88,
+    "cost": 4.74,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000383",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model M",
+    "category": "Beauty",
+    "base_price": 20.73,
+    "cost": 4.71,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000384",
+    "product_name": "Nourishing Vitamin E Night Cream Model M",
+    "category": "Beauty",
+    "base_price": 36.14,
+    "cost": 8.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000385",
+    "product_name": "Purifying Clay Face Mask Model M",
+    "category": "Beauty",
+    "base_price": 17.68,
+    "cost": 3.87,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000386",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model M",
+    "category": "Sports",
+    "base_price": 26.9,
+    "cost": 8.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000387",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model M",
+    "category": "Sports",
+    "base_price": 116.15,
+    "cost": 53.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000388",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model M",
+    "category": "Sports",
+    "base_price": 28.38,
+    "cost": 7.95,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000389",
+    "product_name": "Elastic Resistance Bands 5-Pack Model M",
+    "category": "Sports",
+    "base_price": 14.22,
+    "cost": 3.6,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000390",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model N",
+    "category": "Sports",
+    "base_price": 22.16,
+    "cost": 6.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000391",
+    "product_name": "Noise-Cancelling Headphones Model N",
+    "category": "Electronics",
+    "base_price": 156.99,
+    "cost": 68.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000392",
+    "product_name": "Wireless Mechanical Keyboard Model N",
+    "category": "Electronics",
+    "base_price": 83.42,
+    "cost": 37.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000393",
+    "product_name": "Ultra-HD Webcam 4K Model N",
+    "category": "Electronics",
+    "base_price": 119.61,
+    "cost": 52.05,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000394",
+    "product_name": "Bluetooth Smart Speaker Model N",
+    "category": "Electronics",
+    "base_price": 56.12,
+    "cost": 23.58,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000395",
+    "product_name": "Multi-Port USB-C Hub Model N",
+    "category": "Electronics",
+    "base_price": 38.95,
+    "cost": 13.92,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000396",
+    "product_name": "Gaming Optical Mouse Model N",
+    "category": "Electronics",
+    "base_price": 61.14,
+    "cost": 24.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000397",
+    "product_name": "Fast Wireless Charger Pad Model N",
+    "category": "Electronics",
+    "base_price": 22.52,
+    "cost": 8.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000398",
+    "product_name": "Portable Power Bank 20000mAh Model N",
+    "category": "Electronics",
+    "base_price": 44.02,
+    "cost": 17.61,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000399",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model N",
+    "category": "Apparel",
+    "base_price": 23.9,
+    "cost": 7.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000400",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model N",
+    "category": "Apparel",
+    "base_price": 65.64,
+    "cost": 21.24,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000401",
+    "product_name": "Waterproof Windbreaker Jacket Model N",
+    "category": "Apparel",
+    "base_price": 98.94,
+    "cost": 35.41,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000402",
+    "product_name": "Merino Wool Knit Sweater Model N",
+    "category": "Apparel",
+    "base_price": 87.2,
+    "cost": 31.8,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000403",
+    "product_name": "Breathable Athletic Shorts Model N",
+    "category": "Apparel",
+    "base_price": 31.99,
+    "cost": 10.0,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000404",
+    "product_name": "Everyday Casual Canvas Sneakers Model N",
+    "category": "Apparel",
+    "base_price": 52.46,
+    "cost": 17.17,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000405",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model N",
+    "category": "Home & Kitchen",
+    "base_price": 41.78,
+    "cost": 13.93,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000406",
+    "product_name": "Pour-Over Glass Coffee Maker Model N",
+    "category": "Home & Kitchen",
+    "base_price": 31.54,
+    "cost": 9.99,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000407",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model N",
+    "category": "Home & Kitchen",
+    "base_price": 39.14,
+    "cost": 14.23,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000408",
+    "product_name": "Scented Aromatherapy Diffuser Model N",
+    "category": "Home & Kitchen",
+    "base_price": 25.0,
+    "cost": 7.73,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000409",
+    "product_name": "Organic Bamboo Cutting Board Set Model N",
+    "category": "Home & Kitchen",
+    "base_price": 29.54,
+    "cost": 8.81,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000410",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model N",
+    "category": "Home & Kitchen",
+    "base_price": 18.45,
+    "cost": 5.54,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000411",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model N",
+    "category": "Beauty",
+    "base_price": 24.63,
+    "cost": 5.21,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000412",
+    "product_name": "Gentle Foaming Daily Cleanser Model N",
+    "category": "Beauty",
+    "base_price": 20.36,
+    "cost": 4.62,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000413",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model N",
+    "category": "Beauty",
+    "base_price": 21.22,
+    "cost": 4.82,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000414",
+    "product_name": "Nourishing Vitamin E Night Cream Model N",
+    "category": "Beauty",
+    "base_price": 30.99,
+    "cost": 7.29,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000415",
+    "product_name": "Purifying Clay Face Mask Model N",
+    "category": "Beauty",
+    "base_price": 15.12,
+    "cost": 3.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000416",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model N",
+    "category": "Sports",
+    "base_price": 31.41,
+    "cost": 10.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000417",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model N",
+    "category": "Sports",
+    "base_price": 113.52,
+    "cost": 52.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000418",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model N",
+    "category": "Sports",
+    "base_price": 23.41,
+    "cost": 6.56,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000419",
+    "product_name": "Elastic Resistance Bands 5-Pack Model N",
+    "category": "Sports",
+    "base_price": 17.15,
+    "cost": 4.35,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000420",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model O",
+    "category": "Sports",
+    "base_price": 18.82,
+    "cost": 5.18,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000421",
+    "product_name": "Noise-Cancelling Headphones Model O",
+    "category": "Electronics",
+    "base_price": 162.19,
+    "cost": 70.29,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000422",
+    "product_name": "Wireless Mechanical Keyboard Model O",
+    "category": "Electronics",
+    "base_price": 85.38,
+    "cost": 37.95,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000423",
+    "product_name": "Ultra-HD Webcam 4K Model O",
+    "category": "Electronics",
+    "base_price": 132.98,
+    "cost": 57.87,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000424",
+    "product_name": "Bluetooth Smart Speaker Model O",
+    "category": "Electronics",
+    "base_price": 54.53,
+    "cost": 22.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000425",
+    "product_name": "Multi-Port USB-C Hub Model O",
+    "category": "Electronics",
+    "base_price": 33.04,
+    "cost": 11.8,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000426",
+    "product_name": "Gaming Optical Mouse Model O",
+    "category": "Electronics",
+    "base_price": 59.03,
+    "cost": 23.62,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000427",
+    "product_name": "Fast Wireless Charger Pad Model O",
+    "category": "Electronics",
+    "base_price": 24.11,
+    "cost": 8.68,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000428",
+    "product_name": "Portable Power Bank 20000mAh Model O",
+    "category": "Electronics",
+    "base_price": 45.29,
+    "cost": 18.12,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000429",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model O",
+    "category": "Apparel",
+    "base_price": 25.7,
+    "cost": 7.87,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000430",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model O",
+    "category": "Apparel",
+    "base_price": 62.15,
+    "cost": 20.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000431",
+    "product_name": "Waterproof Windbreaker Jacket Model O",
+    "category": "Apparel",
+    "base_price": 104.4,
+    "cost": 37.36,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000432",
+    "product_name": "Merino Wool Knit Sweater Model O",
+    "category": "Apparel",
+    "base_price": 81.28,
+    "cost": 29.64,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000433",
+    "product_name": "Breathable Athletic Shorts Model O",
+    "category": "Apparel",
+    "base_price": 36.67,
+    "cost": 11.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000434",
+    "product_name": "Everyday Casual Canvas Sneakers Model O",
+    "category": "Apparel",
+    "base_price": 52.27,
+    "cost": 17.11,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000435",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model O",
+    "category": "Home & Kitchen",
+    "base_price": 46.86,
+    "cost": 15.62,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000436",
+    "product_name": "Pour-Over Glass Coffee Maker Model O",
+    "category": "Home & Kitchen",
+    "base_price": 27.64,
+    "cost": 8.76,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000437",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model O",
+    "category": "Home & Kitchen",
+    "base_price": 41.99,
+    "cost": 15.27,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000438",
+    "product_name": "Scented Aromatherapy Diffuser Model O",
+    "category": "Home & Kitchen",
+    "base_price": 25.13,
+    "cost": 7.77,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000439",
+    "product_name": "Organic Bamboo Cutting Board Set Model O",
+    "category": "Home & Kitchen",
+    "base_price": 31.27,
+    "cost": 9.32,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000440",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model O",
+    "category": "Home & Kitchen",
+    "base_price": 20.25,
+    "cost": 6.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000441",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model O",
+    "category": "Beauty",
+    "base_price": 24.63,
+    "cost": 5.21,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000442",
+    "product_name": "Gentle Foaming Daily Cleanser Model O",
+    "category": "Beauty",
+    "base_price": 21.21,
+    "cost": 4.81,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000443",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model O",
+    "category": "Beauty",
+    "base_price": 21.49,
+    "cost": 4.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000444",
+    "product_name": "Nourishing Vitamin E Night Cream Model O",
+    "category": "Beauty",
+    "base_price": 31.75,
+    "cost": 7.47,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000445",
+    "product_name": "Purifying Clay Face Mask Model O",
+    "category": "Beauty",
+    "base_price": 16.22,
+    "cost": 3.55,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000446",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model O",
+    "category": "Sports",
+    "base_price": 26.51,
+    "cost": 8.52,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000447",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model O",
+    "category": "Sports",
+    "base_price": 108.19,
+    "cost": 49.59,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000448",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model O",
+    "category": "Sports",
+    "base_price": 23.91,
+    "cost": 6.7,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000449",
+    "product_name": "Elastic Resistance Bands 5-Pack Model O",
+    "category": "Sports",
+    "base_price": 15.3,
+    "cost": 3.88,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000450",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model P",
+    "category": "Sports",
+    "base_price": 18.98,
+    "cost": 5.22,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000451",
+    "product_name": "Noise-Cancelling Headphones Model P",
+    "category": "Electronics",
+    "base_price": 167.08,
+    "cost": 72.41,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000452",
+    "product_name": "Wireless Mechanical Keyboard Model P",
+    "category": "Electronics",
+    "base_price": 85.84,
+    "cost": 38.16,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000453",
+    "product_name": "Ultra-HD Webcam 4K Model P",
+    "category": "Electronics",
+    "base_price": 129.55,
+    "cost": 56.37,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000454",
+    "product_name": "Bluetooth Smart Speaker Model P",
+    "category": "Electronics",
+    "base_price": 45.67,
+    "cost": 19.19,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000455",
+    "product_name": "Multi-Port USB-C Hub Model P",
+    "category": "Electronics",
+    "base_price": 35.42,
+    "cost": 12.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000456",
+    "product_name": "Gaming Optical Mouse Model P",
+    "category": "Electronics",
+    "base_price": 67.09,
+    "cost": 26.84,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000457",
+    "product_name": "Fast Wireless Charger Pad Model P",
+    "category": "Electronics",
+    "base_price": 23.82,
+    "cost": 8.57,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000458",
+    "product_name": "Portable Power Bank 20000mAh Model P",
+    "category": "Electronics",
+    "base_price": 39.48,
+    "cost": 15.79,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000459",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model P",
+    "category": "Apparel",
+    "base_price": 22.55,
+    "cost": 6.9,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000460",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model P",
+    "category": "Apparel",
+    "base_price": 64.49,
+    "cost": 20.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000461",
+    "product_name": "Waterproof Windbreaker Jacket Model P",
+    "category": "Apparel",
+    "base_price": 98.07,
+    "cost": 35.1,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000462",
+    "product_name": "Merino Wool Knit Sweater Model P",
+    "category": "Apparel",
+    "base_price": 96.9,
+    "cost": 35.34,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000463",
+    "product_name": "Breathable Athletic Shorts Model P",
+    "category": "Apparel",
+    "base_price": 30.28,
+    "cost": 9.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000464",
+    "product_name": "Everyday Casual Canvas Sneakers Model P",
+    "category": "Apparel",
+    "base_price": 49.73,
+    "cost": 16.28,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000465",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model P",
+    "category": "Home & Kitchen",
+    "base_price": 51.26,
+    "cost": 17.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000466",
+    "product_name": "Pour-Over Glass Coffee Maker Model P",
+    "category": "Home & Kitchen",
+    "base_price": 33.76,
+    "cost": 10.7,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000467",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model P",
+    "category": "Home & Kitchen",
+    "base_price": 34.69,
+    "cost": 12.62,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000468",
+    "product_name": "Scented Aromatherapy Diffuser Model P",
+    "category": "Home & Kitchen",
+    "base_price": 21.42,
+    "cost": 6.62,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000469",
+    "product_name": "Organic Bamboo Cutting Board Set Model P",
+    "category": "Home & Kitchen",
+    "base_price": 30.49,
+    "cost": 9.09,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000470",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model P",
+    "category": "Home & Kitchen",
+    "base_price": 22.68,
+    "cost": 6.81,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000471",
+    "product_name": "Hydrating Hyaluronic Acid Serum Model P",
+    "category": "Beauty",
+    "base_price": 23.85,
+    "cost": 5.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000472",
+    "product_name": "Gentle Foaming Daily Cleanser Model P",
+    "category": "Beauty",
+    "base_price": 17.21,
+    "cost": 3.91,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000473",
+    "product_name": "Broad Spectrum SPF 50 Mineral Sunscreen Model P",
+    "category": "Beauty",
+    "base_price": 24.18,
+    "cost": 5.49,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000474",
+    "product_name": "Nourishing Vitamin E Night Cream Model P",
+    "category": "Beauty",
+    "base_price": 33.41,
+    "cost": 7.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000475",
+    "product_name": "Purifying Clay Face Mask Model P",
+    "category": "Beauty",
+    "base_price": 15.76,
+    "cost": 3.45,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000476",
+    "product_name": "High-Density Anti-Tear Yoga Mat Model P",
+    "category": "Sports",
+    "base_price": 25.69,
+    "cost": 8.26,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000477",
+    "product_name": "Adjustable Dumbbell Pair 25lb Model P",
+    "category": "Sports",
+    "base_price": 123.92,
+    "cost": 56.8,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000478",
+    "product_name": "Insulated Stainless Water Bottle 32oz Model P",
+    "category": "Sports",
+    "base_price": 24.35,
+    "cost": 6.82,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000479",
+    "product_name": "Elastic Resistance Bands 5-Pack Model P",
+    "category": "Sports",
+    "base_price": 15.91,
+    "cost": 4.03,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000480",
+    "product_name": "Compact Foam Roller for Muscle Recovery Model Q",
+    "category": "Sports",
+    "base_price": 19.56,
+    "cost": 5.38,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000481",
+    "product_name": "Noise-Cancelling Headphones Model Q",
+    "category": "Electronics",
+    "base_price": 149.25,
+    "cost": 64.68,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000482",
+    "product_name": "Wireless Mechanical Keyboard Model Q",
+    "category": "Electronics",
+    "base_price": 81.07,
+    "cost": 36.04,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000483",
+    "product_name": "Ultra-HD Webcam 4K Model Q",
+    "category": "Electronics",
+    "base_price": 131.99,
+    "cost": 57.44,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000484",
+    "product_name": "Bluetooth Smart Speaker Model Q",
+    "category": "Electronics",
+    "base_price": 51.23,
+    "cost": 21.52,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000485",
+    "product_name": "Multi-Port USB-C Hub Model Q",
+    "category": "Electronics",
+    "base_price": 38.76,
+    "cost": 13.85,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000486",
+    "product_name": "Gaming Optical Mouse Model Q",
+    "category": "Electronics",
+    "base_price": 63.59,
+    "cost": 25.44,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000487",
+    "product_name": "Fast Wireless Charger Pad Model Q",
+    "category": "Electronics",
+    "base_price": 24.04,
+    "cost": 8.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000488",
+    "product_name": "Portable Power Bank 20000mAh Model Q",
+    "category": "Electronics",
+    "base_price": 39.43,
+    "cost": 15.78,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000489",
+    "product_name": "Classic Cotton Crewneck T-Shirt Model Q",
+    "category": "Apparel",
+    "base_price": 24.5,
+    "cost": 7.5,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000490",
+    "product_name": "Slim-Fit Stretch Denim Jeans Model Q",
+    "category": "Apparel",
+    "base_price": 76.18,
+    "cost": 24.65,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000491",
+    "product_name": "Waterproof Windbreaker Jacket Model Q",
+    "category": "Apparel",
+    "base_price": 104.25,
+    "cost": 37.31,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000492",
+    "product_name": "Merino Wool Knit Sweater Model Q",
+    "category": "Apparel",
+    "base_price": 82.48,
+    "cost": 30.08,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000493",
+    "product_name": "Breathable Athletic Shorts Model Q",
+    "category": "Apparel",
+    "base_price": 31.56,
+    "cost": 9.86,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000494",
+    "product_name": "Everyday Casual Canvas Sneakers Model Q",
+    "category": "Apparel",
+    "base_price": 59.51,
+    "cost": 19.48,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000495",
+    "product_name": "Stainless Steel Chef Knife 8-inch Model Q",
+    "category": "Home & Kitchen",
+    "base_price": 44.35,
+    "cost": 14.78,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000496",
+    "product_name": "Pour-Over Glass Coffee Maker Model Q",
+    "category": "Home & Kitchen",
+    "base_price": 30.76,
+    "cost": 9.75,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000497",
+    "product_name": "Cast Iron Skillet Pre-Seasoned Model Q",
+    "category": "Home & Kitchen",
+    "base_price": 41.19,
+    "cost": 14.98,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000498",
+    "product_name": "Scented Aromatherapy Diffuser Model Q",
+    "category": "Home & Kitchen",
+    "base_price": 22.22,
+    "cost": 6.87,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000499",
+    "product_name": "Organic Bamboo Cutting Board Set Model Q",
+    "category": "Home & Kitchen",
+    "base_price": 30.1,
+    "cost": 8.98,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "product_id": "PRD-000500",
+    "product_name": "Silicone Cooking Utensil 10pc Set Model Q",
+    "category": "Home & Kitchen",
+    "base_price": 18.2,
+    "cost": 5.46,
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  }
+]
