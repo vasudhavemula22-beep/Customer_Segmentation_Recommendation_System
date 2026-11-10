@@ -1,17 +1,19 @@
-
 # Explainable Customer Segmentation and Action Recommendation System
 
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
-[![Database](https://img.shields.io/badge/SQLite-WAL%20Mode-green.svg)](https://www.sqlite.org/)
-[![Dashboard](https://img.shields.io/badge/Streamlit-1.40+-red.svg)](https://streamlit.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-WAL%20Mode-green.svg)](https://www.sqlite.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-red.svg)](https://streamlit.io/)
 [![Pytest](https://img.shields.io/badge/Pytest-33%20Passed-brightgreen.svg)](https://pytest.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An enterprise-grade, explainable customer analytics and action recommendation platform built with Python, SQLite, and Streamlit. The system combines multi-dimensional RFM scoring, legal consent enforcement, communication suppression, and closed-loop conversion attribution with an independent anomaly detection engine that identifies four mandatory negative scenarios with 100% Precision and Recall.
+An explainable customer analytics and action recommendation platform built using Python, SQLite, and Streamlit. The system analyzes customer purchasing behavior, engagement, and service activity to perform RFM-based segmentation and generate actionable recommendations.
+
+It also incorporates consent enforcement, communication suppression, conversion attribution, and anomaly detection to support transparent and auditable customer management.
 
 ---
 
 ## Table of Contents
+
 1. [Project Overview](#1-project-overview)
 2. [Business Problem](#2-business-problem)
 3. [Project Objectives](#3-project-objectives)
@@ -34,69 +36,293 @@ An enterprise-grade, explainable customer analytics and action recommendation pl
 ---
 
 ## 1. Project Overview
-Modern CRM systems struggle with two key problems:
-1. **The "Black-Box" Problem:** Machine learning clustering algorithms (e.g., K-Means) assign customers to mathematical clusters that commercial stakeholders cannot explain.
-2. **The Governance Problem:** Recommendations often violate communication frequency limits, disregard unresolved service tickets, or breach customer legal opt-out preferences.
 
-This project delivers an **auditable, deterministic, rule-based segmentation and recommendation engine** that produces natural-language explanations for every segment assignment and intervention, backed by strict relational integrity in SQLite.
+Modern CRM systems face two important challenges:
+
+1. **The Black-Box Problem:** Clustering algorithms can assign customers to mathematical groups without providing clear explanations that business users can understand.
+2. **The Governance Problem:** Customer recommendations may ignore communication preferences, unresolved service complaints, or withdrawn consent.
+
+This project provides an auditable, deterministic, rule-based customer segmentation and recommendation system. It generates human-readable explanations for customer segment assignments and recommended actions, supported by relational data integrity in SQLite.
 
 ---
 
 ## 2. Business Problem
-Marketing teams routinely waste budget by:
-- Bombarding disengaged or dissatisfied customers with irrelevant promotions.
-- Sending marketing offers to customers with open, unresolved service complaints.
-- Violating data privacy regulations (GDPR, CAN-SPAM, TCPA) by contacting users who have withdrawn consent.
-- Misattributing sales conversions to campaigns that occurred after the purchase.
+
+Marketing and customer management teams can face several challenges:
+
+- Sending irrelevant promotions to disengaged or dissatisfied customers.
+- Offering promotions to customers with unresolved service complaints.
+- Contacting customers who have withdrawn marketing consent.
+- Incorrectly attributing purchases to marketing campaigns.
+- Making customer segmentation decisions that are difficult to explain.
+
+This system addresses these challenges through explainable segmentation, recommendation rules, consent enforcement, and anomaly detection.
 
 ---
 
 ## 3. Project Objectives
-- Generate scalable, realistic synthetic customer data up to **50,000 customers, 200,000 orders, and 1,000,000 events** with a deterministic seed (`20261022`).
-- Build an **explainable RFM engine** that assigns customers into mutually exclusive segments with human-readable rationales.
-- Build an **action recommendation engine** with service ticket prioritization and contact suppression.
-- Preserve complete lifecycle history using **Slowly Changing Dimensions (SCD Type 2)**.
-- Inject and detect **four mandatory anomaly scenarios** using independent validation rules without ground-truth leakage.
-- Provide an interactive multi-view **Streamlit dashboard** with Plotly visual analytics.
+
+- Generate scalable synthetic customer data for up to **50,000 customers, 200,000 orders, and 1,000,000 engagement events** using a deterministic seed (`20261022`).
+- Build an explainable RFM engine that assigns customers to mutually exclusive segments with human-readable explanations.
+- Develop an action recommendation engine with service-ticket prioritization and communication suppression.
+- Maintain customer and segment history using Slowly Changing Dimensions (SCD Type 2), where implemented.
+- Inject and detect four mandatory anomaly scenarios using independent validation rules.
+- Build an interactive Streamlit dashboard with Plotly visualizations.
+- Evaluate system behavior through automated tests and measurable metrics.
 
 ---
 
 ## 4. Technology Stack
-- **Language:** Python 3.13
-- **Database Engine:** SQLite 3 (WAL Journal Mode, Strict Foreign Keys)
-- **Data Engineering:** Pandas 2.2+, NumPy 2.0+
-- **Interactive UI:** Streamlit 1.38+
-- **Visual Analytics:** Plotly Express & Plotly Graph Objects 5.24+
-- **Quality Assurance:** Pytest 8.3+ (33 automated unit and end-to-end integration tests)
-- **Environment:** Windows PowerShell, UTF-8 encoding
+
+| Category | Technologies |
+|---|---|
+| Programming Language | Python 3.13 |
+| Database | SQLite 3, WAL Mode, Foreign Keys |
+| Data Processing | Pandas, NumPy |
+| Dashboard | Streamlit |
+| Data Visualization | Plotly Express, Plotly Graph Objects |
+| Testing | Pytest |
+| Development Environment | Windows PowerShell |
 
 ---
 
 ## 5. System Architecture
+
 ```text
 Customer_Segmentation_Recommendation_System/
-├── app/                          # Streamlit Analytical Application
-│   └── app.py                    # Multi-view dashboard entry point
-├── src/                          # Core Python Packages
-│   ├── database/                 # Connection management & schema execution
-│   ├── data_generation/          # Synthetic generator & taxonomy configs
-│   ├── segmentation/             # RFM calculator & explainable rules engine
-│   ├── recommendations/          # Action catalog, consent & suppression rules
-│   ├── anomalies/                # Attribution tracker & 4 anomaly detectors
-│   ├── dashboard/                # Metric aggregators feeding Streamlit
-│   └── utils/                    # Validation summary & reproducibility manifest
-├── data/                         # Data Stage Storage
-│   ├── raw/                      # Generated CSV files
-│   ├── exports/                  # Standard JSON exports
-│   └── ground_truth/             # Isolated benchmark files (ground_truth.json)
-├── database/                     # SQLite binary and DDL schema
-│   ├── schema.sql                # 11-entity relational DDL
-│   └── ecommerce_crm.db          # Active database file
-├── docs/                         # Project Documentation
-│   ├── data_dictionary.md        # Comprehensive 11-table dictionary
-│   ├── er_diagram.md             # Mermaid relationship diagram
-│   ├── validation_summary.md     # 12-point audit sign-off
-│   └── source_manifest.md        # Reproducibility & provenance proof
-├── tests/                        # Automated Pytest Suite (33 tests)
-├── requirements.txt              # Pinned project dependencies
-└── README.md                     # Master system documentation
+│
+├── app/
+│   └── app.py                    # Streamlit dashboard
+│
+├── src/
+│   ├── database/                 # Database connections and schema
+│   ├── data_generation/          # Synthetic data generation
+│   ├── segmentation/             # RFM calculations and segment rules
+│   ├── recommendations/          # Action and consent rules
+│   ├── anomalies/                 # Anomaly detection
+│   ├── dashboard/                # Dashboard metric calculations
+│   └── utils/                     # Validation and utility functions
+│
+├── data/
+│   ├── raw/                       # Generated CSV files
+│   ├── exports/                   # JSON exports
+│   └── ground_truth/              # Benchmark data
+│
+├── database/
+│   ├── schema.sql                 # Database schema
+│   └── ecommerce_crm.db           # SQLite database
+│
+├── docs/
+│   ├── data_dictionary.md
+│   ├── er_diagram.md
+│   ├── validation_summary.md
+│   └── source_manifest.md
+│
+├── tests/                         # Automated tests
+│
+├── requirements.txt               # Project dependencies
+├── README.md                      # Project documentation
+└── LICENSE                        # MIT License
+```
+
+---
+
+## 6. Database Schema & Entity Relationships
+
+The system uses a relational SQLite database to organize customer, transaction, engagement, support, segmentation, recommendation, and outcome information.
+
+Refer to the [Data Dictionary](docs/data_dictionary.md) and [ER Diagram](docs/er_diagram.md) for the detailed database structure and entity relationships.
+
+---
+
+## 7. RFM Segmentation Methodology
+
+The system uses three key customer metrics:
+
+- **Recency (R):** How recently a customer made a purchase.
+- **Frequency (F):** How often a customer makes purchases.
+- **Monetary (M):** How much a customer spends.
+
+These metrics help identify customer behavior and assign customers to meaningful segments using explainable business rules.
+
+---
+
+## 8. Action Recommendation Engine & Rules
+
+The recommendation engine uses customer segment information, purchase behavior, engagement activity, and service information to determine appropriate actions.
+
+Recommendations are evaluated using eligibility rules, customer preferences, consent requirements, and suppression conditions.
+
+Each recommendation should have an understandable reason explaining why the action was suggested or suppressed.
+
+---
+
+## 9. Consent Enforcement & Suppression Logic
+
+The system checks customer consent and applicable communication preferences before allowing restricted marketing actions.
+
+It also considers suppression conditions, such as unresolved support cases and communication restrictions, according to the implemented business rules.
+
+---
+
+## 10. The Four Mandatory Anomaly Scenarios
+
+The anomaly detection component handles four important scenarios:
+
+1. **Conflicting Segment Membership:** A customer is assigned to multiple mutually exclusive segments.
+2. **Consent Violation:** An action violates the customer's applicable consent restrictions.
+3. **Incorrect Return Calculation:** Returned amounts are not correctly deducted from customer spending.
+4. **Wrong Outcome Attribution:** A conversion outcome is attributed to an incorrect action.
+
+The detection process uses independent validation rules rather than relying only on the ground-truth benchmark data.
+
+---
+
+## 11. Measurable Evaluation Metrics
+
+The project includes evaluation metrics to assess segmentation, recommendation behavior, anomaly detection, data quality, and system reliability.
+
+Refer to the dashboard's **System Evaluation Metrics** section and the validation documentation for the available measurements.
+
+---
+
+## 12. Installation & Development Environment
+
+### Prerequisites
+
+- Python 3.13
+- Git
+- Windows PowerShell
+- A code editor such as Visual Studio Code
+
+### Clone the repository
+
+```powershell
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
+
+### Open the project folder
+
+```powershell
+cd Customer_Segmentation_Recommendation_System
+```
+
+### Create a virtual environment
+
+```powershell
+python -m venv .venv
+```
+
+### Activate the virtual environment
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+### Install dependencies
+
+```powershell
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+---
+
+## 13. PowerShell Execution Commands
+
+Run the following commands from the project root directory.
+
+| Task | Command |
+|---|---|
+| Check Python | `python --version` |
+| Check pip | `python -m pip --version` |
+| Activate environment | `.\.venv\Scripts\Activate.ps1` |
+| Install dependencies | `pip install -r requirements.txt` |
+| Run automated tests | `pytest -v` |
+
+---
+
+## 14. Generating Starter, Medium, and Full Datasets
+
+The project supports configurable synthetic datasets for development and evaluation.
+
+| Dataset | Customers | Orders | Engagement Events |
+|---|---:|---:|---:|
+| Starter | 100 | Configurable | Configurable |
+| Medium | 5,000 | Configurable | Configurable |
+| Full | 50,000 | 200,000 | 1,000,000 |
+
+The data generator uses a fixed random seed (`20261022`) to support reproducibility.
+
+Refer to the project's data generation instructions for the exact commands and available configuration options.
+
+---
+
+## 15. Running Automated Tests
+
+Run the automated test suite using:
+
+```powershell
+pytest -v
+```
+
+The tests cover the implemented database operations, business rules, segmentation, recommendations, anomaly detection, and validation scenarios.
+
+---
+
+## 16. Launching the Streamlit Dashboard
+
+From the project root directory, activate the virtual environment and run:
+
+```powershell
+streamlit run app/app.py
+```
+
+Streamlit will provide a local URL, usually:
+
+```text
+http://localhost:8501
+```
+
+Open this address in your browser to access the dashboard.
+
+### Dashboard Sections
+
+The application includes six main sections:
+
+1. **Executive Overview** – Displays high-level customer, revenue, recommendation, and anomaly metrics.
+2. **Customer 360° Explorer** – Allows users to explore individual customer information and activity.
+3. **RFM Segmentation** – Displays customer segments and their associated RFM metrics.
+4. **Action Recommendations** – Shows recommended and suppressed customer actions.
+5. **Anomaly Detection & QA** – Displays detected data and business-rule anomalies.
+6. **System Evaluation Metrics** – Presents available system performance and validation measurements.
+
+---
+
+## 17. Sample Outputs & Reports
+
+The project includes supporting documentation and generated outputs, where available:
+
+- Database schema and entity relationship documentation.
+- Data dictionary.
+- Synthetic data exports.
+- Ground-truth benchmark data.
+- Validation and evaluation reports.
+- Interactive Streamlit dashboard.
+
+---
+
+## 18. Known Limitations
+
+- The dataset is synthetic and does not represent actual customer records.
+- Recommendation quality depends on the implemented business rules and generated data.
+- Evaluation results on synthetic data should not be interpreted as real-world business performance.
+- Production deployment would require additional security, privacy, monitoring, and scalability considerations.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
